@@ -38,11 +38,11 @@
    id="namedview231"
    showgrid="false"
    inkscape:zoom="1.7752894"
-   inkscape:cx="-16.187337"
+   inkscape:cx="-109.69322"
    inkscape:cy="113.43044"
    inkscape:window-x="0"
-   inkscape:window-y="1"
-   inkscape:window-maximized="1"
+   inkscape:window-y="5"
+   inkscape:window-maximized="0"
    inkscape:current-layer="g76" />
 <g
    id="g76">
@@ -133,6 +133,7 @@
      y="22.956484"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#3e3c3c;fill-opacity:1;">Reaction</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff3d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
@@ -144,6 +145,7 @@
      x="68.157906"
      y="47.177883"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ff3d3d;fill-opacity:1;">Seminar</tspan></text>
+
 
 <image
    y="7.5530562"
@@ -157,13 +159,14 @@
    id="text1084"
    y="85.481499"
    x="65.904747"
-   style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3e3c3c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    xml:space="preserve"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#cacaca;fill-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;fill-opacity:1;"
      y="85.481499"
      x="65.904747"
      id="tspan1082"
      sodipodi:role="line">Reaction</tspan></text>
+
 
 <text
    id="text1088"
@@ -177,6 +180,7 @@
      id="tspan1086"
      sodipodi:role="line">Seminar</tspan></text>
 
+
 <image
    width="66.271248"
    height="42.744949"
@@ -187,7 +191,7 @@
    x="0.13132165"
    y="67.553055" /><text
    xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3e3c3c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
    x="65.904747"
    y="149.48151"
    id="text1094"><tspan
@@ -195,7 +199,8 @@
      id="tspan1092"
      x="65.904747"
      y="149.48151"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#3e3c3c;fill-opacity:1">Reaction</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#d2d2d2;fill-opacity:1;">Reaction</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -208,6 +213,7 @@
      x="68.157906"
      y="177.17789"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ff3d3d;fill-opacity:1">Seminar</tspan></text>
+
 
 <image
    y="131.55304"
