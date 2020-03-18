@@ -8,7 +8,7 @@
 <!--             <ul class="list-inline"> -->
                 {% for element in organizer.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                <p>{{ element.name }}, {{ element.description }} </p>
+                <p>{{ element.name }}, {{ element.description } , {{element.email}}} </p>
  
                 </li>
                 {% endfor %}
