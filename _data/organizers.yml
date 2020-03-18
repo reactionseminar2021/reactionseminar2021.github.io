@@ -2,5 +2,5 @@
   group: "Organizers"
   elements: 
     - {name: "Jin Lei", description: "Postdoc, INFN Sezione di Pisa", link: "https://jinleiphys.github.io"} #, imageUrl: "gdg-lviv.svg"}
-    - {name: "Mario Gomez", description: "Postdoc, " }#, link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Mario Gómez Ramos", description: "Fellows of the Alexander von Humboldt Foundation, TU Darmstadt" }#, link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 
