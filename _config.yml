@@ -28,7 +28,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -54,6 +54,11 @@ breakup, quasi-free (p,pN) processes, charge-exchange, … "
 aboutText2: "The seminar will be held every XXXday at XX time"
 
 
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Our speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 
 
