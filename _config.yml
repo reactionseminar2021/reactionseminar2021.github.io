@@ -46,11 +46,8 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "Reaction <typeout> Seminar"
 eventDate: "March - May, 2020"
-#typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+typeoutTextValues: '"", "Scattering", "Fusion"'
 typeoutFallback: "Season"
-#heroButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
