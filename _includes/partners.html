@@ -5,14 +5,14 @@
             <h3>{{ site.organizersTitle }}</h3>
             {% for organizer in site.data.organizers %}
             <h5>{{ organizer.group }}</h5>
-            <ul class="list-inline">
+<!--             <ul class="list-inline"> -->
                 {% for element in organizer.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                 <p>{{ element.name }}, {{ element.description }} </p>
  
                 </li>
                 {% endfor %}
-            </ul>
+<!--             </ul> -->
             {% endfor %}
   
 <!--         </div> -->
