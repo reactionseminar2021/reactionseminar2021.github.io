@@ -11,17 +11,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Reaction Seminar"
-email: "jinlei@pi.infn.it"
 description: "Reaction Seminar is a set of seminars in the field of nuclear reactions"
 baseurl: "/"
 url: "reactionseminar.github.io"
 permalink: "/blog/:title"
 googleAnalyticsSiteUrl: "reactionseminar.github.io"
 
-# Organizer Info
-organizerName: "jinlei"
-organizerEmail: "jinlei@pi.infn.it"
-organizerLink: "http://jinleiphys.github.io"
 
 # Head
 metaKeywords: "Nuclear reaction, Quantum scattering, Fusion"
@@ -58,19 +53,9 @@ aboutBlock:
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
 
 
 
-
-
-
-# Speakers List Block
-showSessions: true
 
 
 
