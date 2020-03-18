@@ -43,11 +43,11 @@ navigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "Reaction <typeout> Seminar"
 eventDate: "March - May, 2020"
 typeoutTextValues: '"", "Scattering", "Fusion"'
-typeoutFallback: "Season"
+
 
 # About Block
 aboutTitle: "About GDG DevFest"
