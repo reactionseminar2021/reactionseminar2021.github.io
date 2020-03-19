@@ -1,0 +1,23 @@
+<!-- Begin Subscribe Section -->
+<section id="subscribe" class="subscribe image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.subscribeImage }});">
+    <div class="overlay solid-overlay"></div>
+    <div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2 animated hiding" data-animation="fadeInUp" data-delay="0">
+            <h3>{{ site.subscribeTitle }}</h3>
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/forum/embed/?place=forum/reactionseminar'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script>
+        </div>
+    </div>
+</section>
+<!-- End Subscribe Section -->

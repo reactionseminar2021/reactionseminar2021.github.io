@@ -57,3 +57,16 @@ aboutText2: "The seminar will be held every XXXday at XX time"
 organizersTitle: "Organizers"
 
 
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates of the schedules"
+#subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+
+footerBlocks:
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:jinlei@pi.infn", text: "jinlei@pi.infn"}
+
