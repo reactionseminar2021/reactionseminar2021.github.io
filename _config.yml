@@ -32,17 +32,19 @@ navigationLinks:
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
-#bottomNavigationLinks:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-#rightNavigationButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+bottomNavigationLinks:
+ - {link: "https://forms.gle/hDzBvVLNmoxA24BJ9", text: "Become a speaker"}
+rightNavigationButtons:
+ - {link: "https://forms.gle/hDzBvVLNmoxA24BJ9", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Reaction <typeout> Seminar"
 eventDate: "March - May, 2020"
-typeoutTextValues: '"Scattering", "Fusion","brekup","transfer","knockout","stripping"'
-
+typeoutTextValues: '"","Scattering", "Fusion","brekup","transfer","knockout","stripping"'
+typeoutFallback: "Scattering"
+heroButtons:
+ - {link: "https://forms.gle/hDzBvVLNmoxA24BJ9", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "About Reaction Seminar"
