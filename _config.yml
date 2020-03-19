@@ -60,7 +60,7 @@ organizersTitle: "Organizers"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates of the schedules"
-subscribeAction: "https://mc.us19.list-manage.com;id=3b24313065"
+subscribeAction: "https://github.us19.list-manage.com/subscribe/post?u=1025ea5178e3c2f3a4c0535d6&amp;id=3b24313065"
 #subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 
@@ -69,4 +69,8 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:jinlei@pi.infn", text: "jinlei@pi.infn"}
+
+
+
+
 
