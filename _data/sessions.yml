@@ -3,7 +3,7 @@
   title: "XXXX"
   description: "  xx"
   subtype: presentation
-  speakers: [4]
+  speakers: [99]
   language: en
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -13,7 +13,7 @@
   title: "YYYYYYYYY"
   description: "yyy"
   subtype: presentation
-  speakers: [5]
+  speakers: [99]
   language: en
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -22,7 +22,7 @@
   title: "ZZZZZZ"
   description: "zzz."
   subtype: presentation
-  speakers: [6]
+  speakers: [99]
   language: en
   complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"

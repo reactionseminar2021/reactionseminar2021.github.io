@@ -1,5 +1,5 @@
 - 
-  date: "4020-03-24"
+  date: "2020-03-24"
   dateReadable: "March 24"
   tracks: 
     - {title: "XXXXX", color: "#90be4e"}
@@ -7,12 +7,12 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [010]
+    	sessionIds: [001]
     }
 
 
 - 
-  date: "4020-03-25"
+  date: "2020-03-25"
   dateReadable: "March 25"
   tracks: 
     - {title: "YYYYYYY", color: "#90be4e"}
@@ -20,11 +20,11 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [ 011]
+    	sessionIds: [ 002]
     }
     
 - 
-  date: "4020-03-26"
+  date: "2020-03-26"
   dateReadable: "March 26"
   tracks: 
     - {title: "ZZZZZ", color: "#90be4e"}
@@ -32,5 +32,5 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [012]
+    	sessionIds: [003]
     }
