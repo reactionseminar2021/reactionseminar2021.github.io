@@ -1,12 +1,12 @@
 - 
-  date: "2020-03-24"
-  dateReadable: "March 24"
+  date: "2020-03-26"
+  dateReadable: "March 26"
   tracks: 
     - {title: "Theory", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "9:00 EST",
+    	endTime: "10:00 EST",
     	sessionIds: [001]
     }
 
