@@ -1,12 +1,21 @@
 -
   id: 001
-  title: "XXXX"
-  description: "  xx"
+  title: "Analysis of 10Li and 11Li through intermediate-energy (p,pn) and low-energy transfer reactions"
+  description: "$^{11}$Li has amassed a large interest among nuclear physicists since the seminal works by Tanihata and collaborators [1], which established it as a halo nuclei through its large reaction cross section. Since then, it has become the archetypical halo and Borromean nucleus, and its structure and that of its associated unbound subsystem, $^{10}$Li, have been the subject of extensive study. It is a testament to the challenges involving this nucleus that the structure of $^{10}$Li is under discussion up to this day [2]. 
+
+In this talk, I will present the analysis of four experiments involving $^{10}$Li, including transfer at low energies and neutron removal $(p,pn)$ at intermediate ones, through the DWBA and Transfer to the Continuum formalisms. We use a consistent $n$-$^9$Li interaction in all of them, finding a good description of the studied observables in all cases, thus reaching a firm description of the spectrum of $^{10}$Li, even in cases were previous analyses seemed contradictory. The resulst of this analysis can be found in [3-5].\newline
+
+[1] I. Tanihata et al, Phys. Rev. Lett. 55, 2676 (1985)
+[2] H.T. Fortune, Phys. Lett. B 760, 577 (2016)
+[3] J. Casal, M. Gomez-Ramos, and A.M. Moro, Phys. Lett. B 767, 307 (2017)
+[4] M. Gomez-Ramos, J. Casal, and A.M. Moro, Phys. Lett. B 772, 115 (2017)
+[5] A.M. Moro, J. Casal and M. Gomez-Ramos, Phys. Lett. B 793, 13 (2019)
+"
   subtype: presentation
-  speakers: [99]
+  speakers: [2]
   language: en
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 002
