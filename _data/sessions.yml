@@ -6,7 +6,21 @@ Tanihata and collaborators [1], which established it as a halo nuclei through it
 cross section. Since then, it has become the archetypical halo and Borromean nucleus, and its
 structure and that of its associated unbound subsystem, 10Li, have been the subject of extensive
 study. It is a testament to the challenges involving this nucleus that the structure of 10Li is
-under discussion up to this day [2]."
+under discussion up to this day [2].
+
+In this talk, I will present the analysis of four experiments involving 10Li, including transfer 
+at low energies and neutron removal (p, pn) at intermediate ones, through the DWBA and
+Transfer to the Continuum formalisms. We use a consistent n-9Li interaction in all of them,
+finding a good description of the studied observables in all cases, thus reaching a firm descrip-
+tion of the spectrum of 10Li, even in cases were previous analyses seemed contradictory. The
+resulst of this analysis can be found in [3-5].
+
+[1] I. Tanihata et al, Phys. Rev. Lett. 55, 2676 (1985)
+[2] H.T. Fortune, Phys. Lett. B 760, 577 (2016)
+[3] J. Casal, M. Gomez-Ramos, and A.M. Moro, Phys. Lett. B 767, 307 (2017)
+[4] M. Gomez-Ramos, J. Casal, and A.M. Moro, Phys. Lett. B 772, 115 (2017)
+[5] A.M. Moro, J. Casal and M. Gomez-Ramos, Phys. Lett. B 793, 13 (2019)
+"
   subtype: presentation
   speakers: [2]
   language: en
