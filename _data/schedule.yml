@@ -24,13 +24,13 @@
     }
     
 - 
-  date: "2020-03-26"
-  dateReadable: "March 26"
+  date: "2020-04-16"
+  dateReadable: "April 16"
   tracks: 
-    - {title: "ZZZZZ", color: "#90be4e"}
+    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "9:00",
+    	endTime: "10:00",
     	sessionIds: [003]
     }
