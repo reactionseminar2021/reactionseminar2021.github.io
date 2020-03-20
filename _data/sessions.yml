@@ -41,11 +41,7 @@ resulst of this analysis can be found in [3-5].
   title: "Unravelling the mechanisms for suppression of complete fusion in reactions of weakly bound nuclei"
   description: "Advanced radioactive beam facilities are opening a new era in nuclear physics, expanding our field into the region close to and beyond the drip lines in the nuclear chart. A very common feature of these nuclides is that they are weakly bound, with low thresholds for removal of one or more nucleons. Studying the reaction dynamics of light weakly-bound nuclei at and near stability with relatively intense beams allows us to perform detailed measurements of the role of weak binding in reaction outcomes.
  
-An important consequence of weak-binding in reactions of the light weakly-bound nuclei, $^{6,7,8}$Li and $^9$Be, is the suppression of complete fusion cross-sections by $\sim 30 \%$ at above-barrier energies compared to barrier penetration models, together with an associated large yield of incomplete fusion. The mechanism for the suppression of complete fusion has long been thought to be due to projectile breakup prior to reaching the fusion barrier. However, recent work has shown that the yields and characteristic timescales of breakup cannot explain the degree of fusion suppression.
- 
-I will discuss recent measurements of the energy and angles of singles and coincidence Z=1,2 particles produced in above-barrier reactions of $^{7}$Li + $^{209}$Bi designed to reveal the mechanism behind incomplete fusion.  By subtracting the $\alpha$-particles produced in no-capture breakup from those of the inclusive prompt $\alpha$-particles, we extract cross-sections for $\alpha$-particles unaccompanied by any other charged fragment. These are necessarily associated with incomplete fusion processes forming polonium isotopes.
- 
-The characteristics of the unaccompanied $\alpha$-particles are inconsistent with the conventional picture of breakup of $^7$Li followed by capture of a Z=1 fragment. The energy and angular distributions of the unaccompanied $\alpha$ particles suggest a direct, single step mechanism for incomplete fusion, where a triton is captured by the $^{209}$Bi target to produce $^{212}$Po, which subsequently evaporates neutrons consistent with statistical decay models.  These results are consistent with recent calculations using inclusive breakup models that suggest incomplete fusion is largely dominated by direct capture from the projectile ground state."
+"
   subtype: presentation
   speakers: [4]
   language: en
