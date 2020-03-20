@@ -23,6 +23,18 @@
     	sessionIds: [ 002]
     }
     
+    
+- 
+  date: "2020-04-09"
+  dateReadable: "April 9"
+  tracks: 
+    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [ 004]
+    }    
 - 
   date: "2020-04-16"
   dateReadable: "April 16"

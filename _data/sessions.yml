@@ -51,3 +51,29 @@ results of this analysis can be found in [3-5].
   language: en
 #  complexity: "Intermediate" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+
+-
+  id: 004
+  title: "Dissecting calculations of breakup and transfer reactions with halo nuclei using halo effective field theory"
+  description: "Halo nuclei exhibit a very exotic structure compared to stable nuclei [1]. Their major characteristic is a very large matter radius. This unusual size is now qualitatively understood as being due to their low separation energy for one or two neutrons. Thanks to this loose binding, these valence neutrons can wander far away from the other nucleons, forming like a diffuse halo around a compact core. Archetypical examples of such exotic structures are the one-neutron halo nuclei 11Be and 15C, and 6He and 11Li, with two neutrons in their halo. Being mostly found close to the neutron dripline, halo nuclei exhibit short lifetimes. Information about their structure has thus to be gathered from indirect techniques. Reactions performed at RIB facilities, like elastic scattering, transfer or breakup, are often used to study the structure of these exotic nuclei [1]. In order to infer reliable information from such measurements, the reaction mechanism must be well understood. An accurate model of the reaction coupled to a realistic description of the projectile is thus needed [2].
+Since the early days of RIBs, various models of reactions have been developed, which have helped us better grasp the dynamics of these reactions [2]. It is also very important to understand what structure information can be obtained from the actual reaction measurements. Recently, we have suggested to couple accurate models of reactions to a description of halo nuclei within an effective field theory (Halo-EFT) [3]. Halo EFT [4] is built on the clear separation of scales that appear in halo nuclei: the loose of the halo opposed to the tight binding of the core. It enables us to expand the core-halo Hamiltonian in a power series of the small parameter obtained as the ratio of the small scale divided by the large scale. Each coefficient of this expansion can be related to nuclear-structure observables of the nucleus: its binding energy, the scattering length in the core-halo continuum etc. This very systematic expansion enables us to clearly estimate the structure observables, which affect the reaction process, and hence which can be inferred from actual measurements.
+Initiated on breakup [3,5], this idea has been successfully extended to transfer [6,7] and knockout [8]. In addition to provide valuable information about the nuclear-structure observables that are probed by the reactions, this new method enables also to reliable constrain the description of halo nuclei used within reaction codes on ab-initio calculations of halo nuclei, which have now become possible, see, e.g., Ref.[9].
+In this online seminar, I will present this new idea and illustrate it on the particular case of 11Be [3,5,7,9] and 15C [7,8] for breakup, transfer and knockout reactions.
+<br>References:
+<br>[1] I. Tanihata, J. Phys. G 22, 157 (1996).
+<br>[2] D. Baye and P. Capel, Breakup reaction models for two- and three-cluster projectiles, Lecture Notes
+in Physics 848, Ed. C. Beck (Springer, Heidelberg, 2012) pp. 121–163.
+<br>[3] P. Capel, D. R. Phillips and H.-W. Hammer, Phys. Rev. C 98, 034610 (2018).
+<br>[4] H.-W. Hammer, C. Ji, and D. R. Phillips, J. Phys. G 44, 103002 (2017).
+<br>[5] L. Moschini and P. Capel, Phys. Lett. B 790, 367 (2019).
+<br>[6] J. Yang and P. Capel, Phys. Rev. C 98, 054602 (2018).
+<br>[7] L. Moschini, J. Yang and P. Capel, Phys. Rev. C 100, 044615 (2019).
+<br>[8] C. Hebborn and P. Capel, Phys. Rev. C 100, 054607 (2019).
+<br>[9] A. Calci et al., Phys. Rev. Lett. 117, 242501 (2016)."
+  subtype: presentation
+  speakers: [3]
+  language: en
+#  complexity: "Intermediate" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
