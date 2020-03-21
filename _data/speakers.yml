@@ -97,6 +97,15 @@
   title: "Professor"
  # bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
   thumbnailUrl: null.jpg 
+
+- 
+  id: 10
+  name: "Andrew"
+  surname: "Ratkiewicz"
+  company: "Lawrence Livermore National Laboratory"
+  title: "Staff Scientist"
+  bio: "I did my PhD work at the NSCL studying nuclear structure. Subsequently I worked as a postdoc at ORNL, supported by Rutgers University. While there I designed and led the fabrication and commissioning of the GODDESS particle-gamma spectrometer, which (I humbly believe, but mean no offense in saying) is the world's most powerful such detector. I also worked on the development of the Surrogate Reactions Method, leading an experiment that demonstrated the utility of the (d,p) reaction as an (n,gamma) surrogate. Then I went to LLNL, where I am now a member of staff. At LLNL I work on Surrogates, neutron-induced reaction measurements, and probing the strength of the interaction between nuclei and plasmas."
+  thumbnailUrl: andrew_ratkiewicz.jpg 
   
   
 - 

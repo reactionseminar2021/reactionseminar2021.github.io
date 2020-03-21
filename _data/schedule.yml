@@ -23,6 +23,18 @@
     	sessionIds: [ 002]
     }
     
+
+- 
+  date: "2020-04-07"
+  dateReadable: "April 7"
+  tracks: 
+    - {title: "Experimental (Special time; Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:30",
+    	endTime: "10:30",
+    	sessionIds: [005]
+    }    
     
 - 
   date: "2020-04-09"

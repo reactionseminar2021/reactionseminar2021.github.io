@@ -77,3 +77,15 @@ in Physics 848, Ed. C. Beck (Springer, Heidelberg, 2012) pp. 121–163.
 #  complexity: "Intermediate" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 
+
+-
+  id: 005
+  title: "Surrogates for Neutron-Induced Reactions in the FRIB era"
+  description: "<br>Neutron-induced reactions play a critical role in stellar nucleosynthesis. However, due to the short half-lives of the nuclei that participate in these processes, direct measurements of the reaction cross sections are very challenging or impossible. The difficulty in directly determining these important cross sections has motivated the development of several indirect techniques for constraining them, one of which is the Surrogate Reactions Method. This method experimentally constrains the desired cross section by measuring the decay of the “same” compound nucleus (CN) formed in a reaction that is easier to measure. The decay of the CN is measured, and observables from its decay are used to constrain parameters in Hauser-Feshbach calculations of the cross section for the desired reaction. 
+  <br>However, the entry spin distribution with which the CN is formed strongly influences its decay, so understanding the entry spin distribution for the CN made in the surrogate reaction is critical to the success of the Surrogate Reactions Method. I will discuss our efforts to understand the entry spin distribution induced by different reactions and the theoretical and experimental information required to do so. I also will share results from our applications of this technique to several neutron-capture reactions, thus far for measurements in normal kinematics. I will give prospects for the extension of this technique to inverse kinematics and for future measurements, for neutron capture as well as for other neutron-induced reactions. This work was supported in part by the U.S. Department of Energy National Nuclear Security Administration under the Stewardship Science Academic Alliances program, NNSA Grants No. DE-FG52-09NA29467 and No. DE-NA0000979 and the Lawrence Livermore National Laboratory Contract No. DE-AC52-07NA27344 and LDRD 16-ERD-022, Texas A&M Nuclear Physics Grant No. DE-FG02-93ER40773, the Office of Nuclear Physics, and the National Science Foundation."
+  subtype: presentation
+  speakers: [10]
+  language: en
+#  complexity: "Intermediate" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
