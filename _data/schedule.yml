@@ -12,14 +12,14 @@
 
 
 - 
-  date: "2020-03-25"
-  dateReadable: "March 25"
+  date: "2020-04-02"
+  dateReadable: "April 2"
   tracks: 
-    - {title: "YYYYYYY", color: "#90be4e"}
+    - {title: "TBD", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "9:00",
+    	endTime: "10:00",
     	sessionIds: [ 002]
     }
     

@@ -28,13 +28,13 @@ results of this analysis can be found in [3-5].
 
 -
   id: 002
-  title: "YYYYYYYYY"
-  description: "yyy"
+  title: "TBD"
+  description: "TBD"
   subtype: presentation
   speakers: [99]
   language: en
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
   title: "Unravelling the mechanisms for suppression of complete fusion in reactions of weakly bound nuclei"
