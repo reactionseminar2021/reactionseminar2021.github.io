@@ -58,3 +58,31 @@
     	endTime: "10:00",
     	sessionIds: [003]
     }
+    
+- 
+  date: "2020-04-23"
+  dateReadable: "April 23"
+  tracks: 
+    - {title: "TBD", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [006]
+    }
+
+
+- 
+  date: "2020-04-30"
+  dateReadable: "April 30"
+  tracks: 
+    - {title: "TBD", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [007]
+    }
+    
+    
+    
