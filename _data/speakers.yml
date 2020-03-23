@@ -107,6 +107,17 @@
   bio: "I did my PhD work at the NSCL studying nuclear structure. Subsequently I worked as a postdoc at ORNL, supported by Rutgers University. While there I designed and led the fabrication and commissioning of the GODDESS particle-gamma spectrometer, which (I humbly believe, but mean no offense in saying) is the world's most powerful such detector. I also worked on the development of the Surrogate Reactions Method, leading an experiment that demonstrated the utility of the (d,p) reaction as an (n,gamma) surrogate. Then I went to LLNL, where I am now a member of staff. At LLNL I work on Surrogates, neutron-induced reaction measurements, and probing the strength of the interaction between nuclei and plasmas."
   thumbnailUrl: andrew_ratkiewicz.jpg 
   
+
+- 
+  id: 11
+  name: "Anna"
+  surname: "Corsi"
+  company: "CEA"
+  title: "Researcher"
+  bio: "PhD from Milano University in 2010, now researcher at CEA Saclay focussed on the study of exotic nuclei via direct reactions."
+  thumbnailUrl: null.jpg 
+
+
   
 - 
   id: 99

@@ -110,3 +110,15 @@ in Physics 848, Ed. C. Beck (Springer, Heidelberg, 2012) pp. 121–163.
   language: en
 #  complexity: "Intermediate" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+
+
+-
+  id: 008
+  title: "Recent results on Borromean nuclei 11Li and 14Be via (p,pn) reaction"
+  description: "In this talk I will present the result of an experiment performed at RIKEN in order to study dineutron correlation in 11Li and 14Be via (p,pn) reactions. I will also focus on the spectroscopy on the unbound 13Be system populated in the reaction."
+  subtype: presentation
+  speakers: [11]
+  language: en
+#  complexity: "Intermediate" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
