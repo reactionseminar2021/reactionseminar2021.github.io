@@ -59,7 +59,7 @@
     	startTime: "9:00",
     	endTime: "10:00",
     	sessionIds: [008]
-
+    } 
 - 
   date: "2020-04-16"
   dateReadable: "April 16"
