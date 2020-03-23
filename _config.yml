@@ -29,7 +29,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Organizers"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:

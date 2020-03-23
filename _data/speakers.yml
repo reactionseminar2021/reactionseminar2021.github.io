@@ -54,7 +54,7 @@
   name: "Jesús"
   surname: "CASAL"
   company: "Università degli Studi di Padova"
-  title: "Research Associate (RTDa)"
+  title: "Assistant Professor (RTDa)"
  # bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
   thumbnailUrl: Jesus.jpg
   
@@ -116,6 +116,16 @@
   title: "Researcher"
   bio: "PhD from Milano University in 2010, now researcher at CEA Saclay focussed on the study of exotic nuclei via direct reactions."
   thumbnailUrl: anna.jpg 
+
+
+- 
+  id: 12
+  name: "Surjit"
+  surname: "Mukherjee"
+  company: "The M.S. University of Baroda, Vadodara, India"
+  title: "Professor of Physics"
+  bio: "I am a Professor of Physics. I did my M.Sc. and Ph.D. in Nuclear Physics from Banaras Hindu University, Varanasi, India. I did my Post Doctoral work at the iThemba LABS, South Africa. I have visited Brazil, Russia, South Africa, Italy, Czech Republic, Slovakia, China for my research collaboration. I have more than 125 journal publication. My research interest is Nuclear reactions with weakly bound nucleus and RIB. Reactor Physics, Nuclear Data and Nuclear Astrophysics"
+  thumbnailUrl: null.jpg 
 
 
   

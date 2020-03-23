@@ -1,47 +1,42 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Jin Lei"
+  surname: ""
+  title: "Postdoc"
+  thumbnailUrl: Jin.jpg
   team: true
-  ribbon: 
+#  ribbon: 
   social: 
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "github", link: "https://github.com/jinleiphys"}
+    - {name: "site", link: "https://jinleiphys.github.io"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Mario"
+  surname: "Gómez Ramos"
+  title: "Fellows of the Alexander von Humboldt Foundation"
+  thumbnailUrl: Mario_Gomez.jpg
   team: true
-  ribbon: 
+#  ribbon: 
+  social: 
+#    - {name: "github", link: "https://github.com/xxx"}
+    - {name: "site", link: "https://www.tu-darmstadt.de/forschen/international_forschen/humboldt_stipendiaten/artikel_details_de_en_217472.en.jsp"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Kaitlin"
+  surname: "Cook"
+  title: " Assistant Professor"
+  thumbnailUrl: Kaitlin.jpg
   team: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+#    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "https://www.nscl.msu.edu/directory/cookk.html"}
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  id: 3
+  name: "Jesús"
+  surname: "Casal"
+  title: "Assistant Professor (RTDa)"
+  thumbnailUrl: Jesus.jpg
+  Team: true
   social: 
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "site", link: "http://olostan.name/"}
+#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+     - {name: "site", link: "https://sites.google.com/view/jcasal"}

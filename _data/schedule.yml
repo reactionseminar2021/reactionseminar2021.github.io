@@ -86,6 +86,19 @@
 
 
 - 
+  date: "2020-04-28"
+  dateReadable: "April 28"
+  tracks: 
+    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [009]
+    }
+
+
+- 
   date: "2020-04-30"
   dateReadable: "April 30"
   tracks: 
