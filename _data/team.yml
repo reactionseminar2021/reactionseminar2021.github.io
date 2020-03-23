@@ -7,8 +7,11 @@
   team: true
 #  ribbon: 
   social: 
-    - {name: "github", link: "https://github.com/jinleiphys"}
     - {name: "site", link: "https://jinleiphys.github.io"}
+    - {name: "facebook", link: "https://www.facebook.com/jin.lei.129"}
+    - {name: "email", link: "jinlei@pi.infn.it"}
+    - {name: "github", link: "https://github.com/jinleiphys"}
+    
 - 
   id: 1
   name: "Mario"
