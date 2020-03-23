@@ -9,7 +9,7 @@
   social: 
     - {name: "site", link: "https://jinleiphys.github.io"}
     - {name: "facebook", link: "https://www.facebook.com/jin.lei.129"}
-    - {name: "email", link: "jinlei@pi.infn.it"}
+#    - {name: "email", link: "jinlei@pi.infn.it"}
     - {name: "github", link: "https://github.com/jinleiphys"}
     
 - 
