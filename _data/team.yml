@@ -28,7 +28,7 @@
   thumbnailUrl: Kaitlin.jpg
   team: true
   social: 
-#    - {name: "twitter", link: "https://twitter.com/p1f"}
+#    - {name: "twitter", link: "https://twitter.com/XX"}
     - {name: "site", link: "https://www.nscl.msu.edu/directory/cookk.html"}
 - 
   id: 3
@@ -36,7 +36,7 @@
   surname: "Casal"
   title: "Assistant Professor (RTDa)"
   thumbnailUrl: Jesus.jpg
-  Team: true
+  team: true
   social: 
-#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#    - {name: "github", link: "https://github.com/XXX"}
      - {name: "site", link: "https://sites.google.com/view/jcasal"}
