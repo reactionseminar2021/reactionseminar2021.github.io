@@ -23,6 +23,7 @@
   social: 
 #    - {name: "github", link: "https://github.com/xxx"}
     - {name: "site", link: "https://www.tu-darmstadt.de/forschen/international_forschen/humboldt_stipendiaten/artikel_details_de_en_217472.en.jsp"}
+    - {name: "email", link: "mailto:mgomez@ikp.tu-darmstadt.de"}
 - 
   id: 2
   name: "Kaitlin"
@@ -33,6 +34,7 @@
   social: 
 #    - {name: "twitter", link: "https://twitter.com/XX"}
     - {name: "site", link: "https://www.nscl.msu.edu/directory/cookk.html"}
+    - {name: "email", link: "mailto:cookk@frib.msu.edu"}
 - 
   id: 3
   name: "Jesús"
@@ -43,3 +45,4 @@
   social: 
 #    - {name: "github", link: "https://github.com/XXX"}
      - {name: "site", link: "https://sites.google.com/view/jcasal"}
+     - {name: "email", link: "mailto:casal@pd.infn.it"}
