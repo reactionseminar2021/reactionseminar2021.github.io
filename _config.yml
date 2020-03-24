@@ -15,8 +15,9 @@ description: "Reaction Seminar is a set of seminars in the field of nuclear reac
 baseurl: "/"
 url: "reactionseminar.github.io"
 permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-161771703-1"
 googleAnalyticsSiteUrl: "reactionseminar.github.io"
-
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Head
 metaKeywords: "Nuclear reaction, Quantum scattering, Fusion"
