@@ -138,6 +138,24 @@
   thumbnailUrl: hao.jpg 
 
 
+- 
+  id: 14
+  name: "Amy"
+  surname: "Lovell"
+  company: "Los Alamos National Laboratory"
+  title: " .."
+  bio: "..."
+  thumbnailUrl: null.jpg 
+
+
+- 
+  id: 15
+  name: "Manuel"
+  surname: "Catacora-Rios"
+  company: "Michigan State University"
+  title: " .."
+  bio: "..."
+  thumbnailUrl: null.jpg 
   
 - 
   id: 99

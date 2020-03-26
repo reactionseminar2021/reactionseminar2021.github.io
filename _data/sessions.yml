@@ -146,4 +146,25 @@ in Physics 848, Ed. C. Beck (Springer, Heidelberg, 2012) pp. 121–163.
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 
 
+-
+  id: 011
+  title: "TBD"
+  description: "TBD"
+  subtype: presentation
+  speakers: [14]
+  language: en
+#  complexity: "Intermediate" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+
+-
+  id: 012
+  title: "TBD"
+  description: "TBD"
+  subtype: presentation
+  speakers: [15]
+  language: en
+#  complexity: "Intermediate" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
 
