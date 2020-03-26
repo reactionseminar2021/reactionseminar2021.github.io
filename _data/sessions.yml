@@ -92,8 +92,17 @@ in Physics 848, Ed. C. Beck (Springer, Heidelberg, 2012) pp. 121–163.
 
 -
   id: 006
-  title: "TBD"
-  description: "TBD"
+  title: "Extracting B(E1) distributions from Coulomb-dominated break-up cross sections"
+  description: '<br>Experimental measurements of the B(E1) distributions of weakly bound nuclei are carried out by means of 
+Break-up experiments, on heavy targets. The measured break-up cross sections are interpreted using a simple
+reaction model, called the Equivalent Photon Method (EPM), which allows to extract "experimental" B(E1) distributions,
+which are, essentially, proportional to the break-up cross sections.
+This procedure can lead to cases, such as 11Be, for which incompatible experimental B(E1) distributions arise from
+break-up cross sections measured at different energies. 
+
+<br>Here we indicate how can one use state of the art reaction calculations, beyond EPM, to extract B(E1) distributions from the
+break-up cross sections, despite the uncertainties in the nuclear interactions and reaction dynamics. This proper
+reaction treatment produces B(E1) distributions for 11Be from break-up cross sections at different energies which are fully compatible.'
   subtype: presentation
   speakers: [9]
   language: en
