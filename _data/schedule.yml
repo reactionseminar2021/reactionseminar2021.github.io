@@ -111,4 +111,16 @@
     }
     
     
+- 
+  date: "2020-05-07"
+  dateReadable: "May 7"
+  tracks: 
+    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [010]
+    }
     
+        

@@ -134,3 +134,16 @@ in Physics 848, Ed. C. Beck (Springer, Heidelberg, 2012) pp. 121–163.
   language: en
 #  complexity: "Intermediate" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+-
+  id: 010
+  title: "Progress in microscopic description of nucleon-nucleus elastic scattering at low-energy"
+  description: "I will present our current studies and future plans concerning the microscopic optical potential within a microscopic framework based on non-relativistic self-consistent mean field (plus correlations) approaches using nucleon-nucleon effective interactions, mostly of the Skyrme type."
+  subtype: presentation
+  speakers: [13]
+  language: en
+#  complexity: "Intermediate" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+
+
