@@ -2,7 +2,7 @@
   date: "2020-03-26"
   dateReadable: "March 26"
   tracks: 
-    - {title: "Theory (Eastern Standard Time). Click <a href='https://msu.zoom.us/j/107978407'> here</a> to join", color: "#90be4e"}
+    - {title: "Theory (Eastern Standard Time).", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
