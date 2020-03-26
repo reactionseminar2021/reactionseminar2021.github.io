@@ -54,7 +54,7 @@ series of online seminars that everybody can join. The seminars will cover all f
 special emphasis on the description and interpretation of different types of direct reactions: elastic/inelastic scattering,
 breakup, quasi-free (p,pN) processes, charge-exchange, … "
 
-aboutText2: "The seminar will be held every Thursday at 9:00am to 10:00am EST"
+#aboutText2: "The seminar will be held every Thursday at 9:00am to 10:00am EST"
 
 # Partners Block
 organizersTitle: "Organizers"
