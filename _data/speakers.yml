@@ -169,10 +169,20 @@
   thumbnailUrl: null.jpg 
   
 - 
-  id: 99
-  name: "TBD"
-  surname: "XXX"
-  company: "TBD"
-  title: "Professor"
- # bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  id: 17
+  name: "Jin"
+  surname: "Lei"
+  company: "INFN Sezione di Pisa"
+  title: "Postdoc"
+  bio: 'I am a postdoc researcher from INFN Sezione di Pisa. I obtained my Ph.D from Universidad de Sevilla, after that I did a first postdoc in Ohio University. My interest field is nuclear reactions with few body model with both semi-classical and quantum mechanical methods.   '
+  thumbnailUrl: Jin.jpg
+  
+  
+- 
+  id: 18
+  name: "Kyle"
+  surname: "Brown"
+  company: "Michigan State University"
+  title: "Assistant Professor "
+  bio: 'xxxxx  '
   thumbnailUrl: null.jpg
