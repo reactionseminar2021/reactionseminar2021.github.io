@@ -177,3 +177,14 @@ reaction treatment produces B(E1) distributions for 11Be from break-up cross sec
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 
 
+-
+  id: 013
+  title: "A nonlocal (d,p) reaction story"
+  description: "This is a story about how an attempt to understand the corrections for nonlocality, imbedded in transfer reaction codes and used in the adiabatic treatment of (d,p) reactions, lead to an understanding that nonlocality of optical potentials should be treated beyond the adiabatic approximation. More importantly, it lead to a big question: what is the justification for all three-body models we use to describe many-body systems?"
+  subtype: presentation
+  speakers: [16]
+  language: en
+#  complexity: "Intermediate" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+
