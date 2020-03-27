@@ -186,3 +186,14 @@
   title: "Assistant Professor "
   bio: 'xxxxx  '
   thumbnailUrl: null.jpg
+  
+  
+- 
+  id: 19
+  name: "Zaihong"
+  surname: "Yang"
+  company: "Recearch Center for Nuclear Physics, Osaka University"
+  title: "Postdoc "
+  bio: 'xxxxx  '
+  thumbnailUrl: zaihong.jpg
+

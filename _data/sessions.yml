@@ -209,3 +209,27 @@ reaction treatment produces B(E1) distributions for 11Be from break-up cross sec
 #  complexity: "Intermediate" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 
+
+
+-
+  id: 016
+  title: "TBD"
+  description: "TBD"
+  subtype: presentation
+  speakers: [1]
+  language: en
+#  complexity: "Intermediate" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+
+
+-
+  id: 017
+  title: "TBD"
+  description: "TBD"
+  subtype: presentation
+  speakers: [19]
+  language: en
+#  complexity: "Intermediate" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
