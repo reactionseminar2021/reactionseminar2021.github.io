@@ -20,7 +20,7 @@
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [ 018]
+    	sessionIds: [ 002]
     }
     
 
@@ -156,19 +156,6 @@
     	startTime: "9:00",
     	endTime: "10:00",
     	sessionIds: [013]
-    }
-    
-
-- 
-  date: "2020-05-14"
-  dateReadable: "May 14"
-  tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [002]
     }
     
 
