@@ -197,3 +197,12 @@
   bio: 'xxxxx  '
   thumbnailUrl: zaihong.jpg
 
+
+- 
+  id: 20
+  name: "Jie"
+  surname: "Chen"
+  company: "NSCL"
+  title: "Postdoc "
+  bio: 'Jie Chen is now a postdoctoral researcher at Michigan State University and the Facility for Rare Isotope Beams. She got her Ph.D. at Peking University in 2016 and has been a postdoctoral researcher in Argonne National Laboratory in the following three years. Her research interest focuses on the study of the single-particle structures of exotic or weakly bound nuclei using transfer reactions. '
+  thumbnailUrl: null.jpg
