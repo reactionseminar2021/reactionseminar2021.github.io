@@ -8,7 +8,7 @@
                 <div class="track-header-label">Day {{ forloop.index }}</div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
-                    {% assign trackColWidth = 13 | divided_by: forloop.length %}
+                    {% assign trackColWidth = 20 | divided_by: forloop.length %}
                     <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
                         <h5 class="track-header-title">{{ track.title }}</h5>
                     </div>
