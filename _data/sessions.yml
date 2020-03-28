@@ -28,8 +28,24 @@ results of this analysis can be found in [3-5].
 
 -
   id: 002
-  title: "TBD"
-  description: "TBD"
+  title: "Systematic  nuclear  potential   for  stable,  weakly  bound  and  exotic  nuclei  reactions"
+  description: "Nuclei present cluster structures. Light, strongly or weakly bound, stable or exotic, nuclei such
+as 6He; 6,7Li; 7,8,9Be; 12,13,14C; 16,18O; among others (isotopes and nuclei), can be considered as results of n;
+1,2,3H and 3,4He combinations. It has been evidenced by experimental observations on break-up or transfer reactions.
+Thus, to describe stable, weakly bound and exotic nuclei reactions, with the same theoretical approach, is extremely
+challenging in nuclear physics. Studying reactions involving weakly bound stable nuclei is a crucial step in between
+studying reactions with stable and exotic nuclei and towards a better understanding of the latter.
+
+We present a systematic study of the nuclear potential in a wide systematic involving the elastic scattering of 4,6He,
+7,6Li, 9Be,10B and 16,18O projectiles on the same target at energies around the respective Coulomb barriers. 
+We will describe the different laboratories and experimental setups used to obtain these data.
+We report on optical model analyses based on the double-folding São Paulo potential. 
+In addition, we study the effect of Coulomb dipole polarization (CDP) potential, derived from the semi-classical theory 
+of Coulomb excitation. Within this approach, we study OP (real and imaginary) strengths as a function of the systems 
+4,6He; 6,7,9,11Li; 9,11Be; 12C; 16,18O.
+Our OP approach establishes a common basis for stable, weakly bound and exotic nuclei reactions, accounting
+for important differences in their reaction mechanisms, which shows to be directly related to their structural properties.
+"
   subtype: presentation
   speakers: [8]
   language: en
