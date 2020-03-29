@@ -206,8 +206,10 @@ reaction treatment produces B(E1) distributions for 11Be from break-up cross sec
 
 -
   id: 014
-  title: "TBD"
-  description: "TBD"
+  title: "Constraining the momentum dependence of the Nuclear Equation of State"
+  description: "<br>Nucleons in dense nuclear matter appear to have reduced inertial masses due to momentum-dependent interactions they experience with other nucleons. This reduction of their masses is often referred to as their effective mass, and at saturation density the effective masses are about 70% of their vacuum mass. In asymmetric matter the effective masses of neutrons and protons can be different, leading to an effective-mass splitting. The sign and magnitude of this splitting is poorly constrained at densities away from saturation density. 
+<br>Recent experiments at the National Superconducting Cyclotron Laboratory were performed to help constrain these momentum-dependent interactions. By measuring the kinetic energy spectra of neutrons and protons, or analogously using “pseudo neutrons” from measured tritons and helium-3, the sign and magnitude of this effective-mass splitting can be extracted, with the help of transport models. Collisions of beams of 40,48Ca at 50 and 140 MeV/A impinged on targets of 58,64Ni and 112,124Sn, and the light, charged particles and neutrons emitted in these collisions were detected. Charged particles up to boron were detected, with isotopic resolution, in the upgraded High-Resolution Array and neutrons were detected in the Large-Area Neuron Array. I will discuss some of the important physics motivations for studying the nuclear Equation of State, present details about the experiment setup, and then discuss some first results on the spectral ratios with comparisons to transport model calculations. At the end I will discuss the future directions that can be looked forward to at the Facility for Rare Isotope Beams.
+<br>This research is supported by the National Science Foundation under Grant No. PHY-1565546 and the Department of Energy under Grant No. DE-NA0002923."
   subtype: presentation
   speakers: [18]
   language: en
