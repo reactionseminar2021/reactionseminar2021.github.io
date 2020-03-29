@@ -15,7 +15,7 @@
   date: "2020-04-02"
   dateReadable: "April 2"
   tracks: 
-    - {title: "TBD", color: "#90be4e"}
+    - {title: "Experiment (Eastern Standard Time).", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
