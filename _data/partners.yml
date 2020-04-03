@@ -2,7 +2,6 @@
   group: "General sponsor"
   elements: 
     - {name: "INFN-pisa", description: "INFN-pisa", link: "https://www.pi.infn.it", imageUrl: "2_Pisa_LOGO_NOME_ESTESO.jpeg"}
-    - {name: "INFN", description: "INFN", link: "http://home.infn.it/it/", imageUrl: "logo_INFN.png"}
 #    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 
 
