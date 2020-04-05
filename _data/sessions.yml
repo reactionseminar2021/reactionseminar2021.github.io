@@ -36,7 +36,7 @@ Thus, to describe stable, weakly bound and exotic nuclei reactions, with the sam
 challenging in nuclear physics. Studying reactions involving weakly bound stable nuclei is a crucial step in between
 studying reactions with stable and exotic nuclei and towards a better understanding of the latter.
 
-We present a systematic study of the nuclear potential in a wide systematic involving the elastic scattering of 4,6He,
+<br>We present a systematic study of the nuclear potential in a wide systematic involving the elastic scattering of 4,6He,
 7,6Li, 9Be,10B and 16,18O projectiles on the same target at energies around the respective Coulomb barriers. 
 We will describe the different laboratories and experimental setups used to obtain these data.
 We report on optical model analyses based on the double-folding São Paulo potential. 
@@ -153,7 +153,13 @@ reaction treatment produces B(E1) distributions for 11Be from break-up cross sec
 -
   id: 009
   title: "Investigation of nuclear reactions for the applications in Advance reactor, ADSS facility and nuclear data management"
-  description: "TBD"
+  description: "Enormous amount of experimental work has been carried out in low energy neutron induced reactions of actinides and nuclear structural materials [1-4]. However, experimental nuclear data in medium to high-energy neutron induced reactions are rare and very much limited. There is strong need to measure reaction cross sections of reactor fuel, cladding and shielding materials to the medium energy region with mono-energetic neutrons and also with protons and photons. Measurements of the different types of reaction cross sections in the above-mentioned energy region will help us to understand the energy dependence of the activation cross-sections in detail. This could lead us to develop Accelerator Driven Subcritical Systems (ADSs); which would be the future of reactor technology from the India’s perspective [5]. Along with ADSs, International Thermonuclear Experimental reactor (ITER) can also be a sustainable energy source in future. Therefore, it is necessary to study the neutron capture cross-sections for its magnetic materials, since the magnets used for holding the plasma get irradiated with secondary neutrons which are produced in the operation. There is strong need to measure reaction cross sections of fuel materials and reactor cladding and shielding materials to the medium energy region with mono-energetic neutrons.
+  <br>References 
+<br>1. Siddharth Parashari et al., Physical Review C 98, 014625 (2018).
+<br>2. Rajnikant Makwana et al., Physical Review C 96, 042608 (2017).
+<br>3. S. Mukherjee et al., Applied Radiation and Isotopes, 143, 72 (2019).
+<br>4. Vibha Vansola et al., Radiochimica Acta 2193-3405, 104, 749 (2016).
+<br>5. S. S. Kapoor, Pramana - J. Phys 59, 941 (2002)."
   subtype: presentation
   speakers: [12]
   language: en
