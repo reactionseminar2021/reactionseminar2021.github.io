@@ -2,6 +2,6 @@
   group: "General sponsor"
   elements: 
     - {name: "INFN-pisa", description: "INFN-pisa", link: "https://www.pi.infn.it", imageUrl: "2_Pisa_LOGO_NOME_ESTESO.jpeg"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Dip. Fisica e Astronomia 'G.Galilei'", description: "Dip. Fisica e Astronomia 'G.Galilei'", link: "https://www.dfa.unipd.it/index.php?id=1101", imageUrl: "logo-dfa-unipd.png"}
 
 
