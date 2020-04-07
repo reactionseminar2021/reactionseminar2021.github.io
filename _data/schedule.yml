@@ -28,7 +28,7 @@
   date: "2020-04-07"
   dateReadable: "April 7"
   tracks: 
-    - {title: "Experimental (<b>Special time</b>; Eastern Standard Time) Click <a href='https://msu.zoom.us/j/356148920'> here</a> to join", color: "#90be4e"}
+    - {title: "Experimental (<b>Special time</b>; Eastern Standard Time) ", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:30",
@@ -40,7 +40,7 @@
   date: "2020-04-09"
   dateReadable: "April 9"
   tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
+    - {title: "Theory (Eastern Standard Time) Click <a href='https://msu.zoom.us/j/356148920'> here</a> to join", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
