@@ -179,8 +179,8 @@ reaction treatment produces B(E1) distributions for 11Be from break-up cross sec
 
 -
   id: 011
-  title: "TBD"
-  description: "TBD"
+  title: "Uncertainty Quantification for Reaction Theory"
+  description: "The rigorous quantification of uncertainties in nuclear theory has gained a more prominent role over the last several years.  In few-body reaction theory, there are four main sources of uncertainties, coming from the effective interactions, approximations made in solving the few-body problem, the structure function, and degrees of freedom left out of the model space.  In this talk, I will detail the evolution of our techniques to quantify theoretical uncertainties, from standard chi-square minimization and covariance propagation to Bayesian methods, concentrating on the uncertainties that come from fitting the optical model to elastic scattering data.  I will discuss how these uncertainties propagate to single-nucleon transfer cross sections, and show comparisons between two different reaction theory formalisms.  Finally, I will make connections to my current work at Los Alamos."
   subtype: presentation
   speakers: [14]
   language: en

@@ -148,8 +148,8 @@
   name: "Amy"
   surname: "Lovell"
   company: "Los Alamos National Laboratory"
-  title: " .."
-  bio: "..."
+  title: " Staff Scientist"
+  bio: "I obtained my PhD at the NSCL in reaction theory where I mainly worked on uncertainty quantification for few-body reactions, in addition to the three-body decay of 16Be and the energy-dependence of non-local optical potentials.  Afterwards, I became a post-doc in the the nuclear theory group (T-2), joint with the Center for Non-Linear Studies, at Los Alamos National Lab, performing correlated fission studies and investigating probabilistic machine learning techniques.  I was recently converted to a staff scientist in the nuclear theory group, continuing my post-doc work and becoming involved with ENDF evaluations."
   thumbnailUrl: Lovell.png
 
 
