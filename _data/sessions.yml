@@ -192,8 +192,8 @@ reaction treatment produces B(E1) distributions for 11Be from break-up cross sec
 
 -
   id: 012
-  title: "TBD"
-  description: "TBD"
+  title: "Exploring experimental conditions to reduce uncertainties in the optical potential"
+  description: "Uncertainty quantification for nuclear theories has gained a more prominent role in the field, with more groups attempting to understand the uncertainties in their calculations. However, recent studies have shown that the uncertainties on the optical potentials are too large for the theory to be useful. The purpose of this work is to explore possible experimental conditions that may reduce the uncertainties on elastic scattering and single-nucleon transfer cross sections that come from the fitting of the optical model parameters to experimental data. We study proton and neutron elastic scattering on 48Ca and 208Pb. We also propagate the uncertainties on the optical potentials to the 48Ca(d,p)49Ca(g.s.) and 208Pb(d,p)209Pb(g.s.) cross sections. Using Bayesian methods, we explore the effect of the uncertainties of optical model parameters on the angular grid of the differential cross section, including cross-section data at nearby energies, and changes in the experimental error bars. We also study the effect on the resulting uncertainty when other observables are included in the fitting procedure, particularly the total (reaction) cross sections. We find little sensitivity to the angular grid and an improvement of up to a factor of 2 on the uncertainties by including data at a nearby energy. Although reducing the error bars on the data does reduce the uncertainty, the gain is often considerably smaller than one would naively expect. We also find that the inclusion of total reaction cross section can improve the uncertainty although the magnitude of the effect depends strongly on the cases considered. Additionally, we present some of our latest results in adding polarization data to the fit. "
   subtype: presentation
   speakers: [15]
   language: en
