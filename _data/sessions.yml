@@ -131,7 +131,7 @@ reaction treatment produces B(E1) distributions for 11Be from break-up cross sec
 -
   id: 007
   title: "Benchmark of breakup models"
-  description: "n this talk I will discuss quantum mechanical, semiclassical and eikonal models for breakup reactions making a quantitative assessment of their relative accuracy. Also I will discuss if and how different models can or cannot describe different observables in inclusive and exclusive reactions. Results will be shown for both exotic and “normal” nuclei."
+  description: "In this talk I will discuss quantum mechanical, semiclassical and eikonal models for breakup reactions making a quantitative assessment of their relative accuracy. Also I will discuss if and how different models can or cannot describe different observables in inclusive and exclusive reactions. Results will be shown for both exotic and “normal” nuclei."
   subtype: presentation
   speakers: [6]
   language: en
