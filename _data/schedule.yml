@@ -101,7 +101,7 @@
   date: "2020-04-28"
   dateReadable: "April 28"
   tracks: 
-    - {title: "Experiment (Eastern Standard Time) Click <a href='https://msu.zoom.us/j/356148920'> here</a> to join", color: "#90be4e"}
+    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
@@ -114,7 +114,7 @@
   date: "2020-04-30"
   dateReadable: "April 30"
   tracks: 
-    - {title: "TBD", color: "#90be4e"}
+    - {title: "Theory (Eastern Standard Time), Click <a href='https://msu.zoom.us/j/356148920'> here</a> to join", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
