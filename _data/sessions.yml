@@ -253,8 +253,20 @@ reaction treatment produces B(E1) distributions for 11Be from break-up cross sec
 
 -
   id: 017
-  title: "TBD"
-  description: "TBD"
+  title: "Study of α clustering in nuclei using quasi-free (p,pα) reaction"
+  description: "Formation of clusters in nuclei is a topic of interest and fundamental significance throughout the history of nuclear physics[1,2]. In light nuclei, development of cluster structure in states close to the corresponding decay threshold is a well established phenomenon (“Ikeda threshold rule[3]”). Search for novel cluster states in light nuclei, the α-condensate states (e.g Hoyle state), the molecular states in beryllium isotopes, and the 3-α-linear-chain states in carbon isotopes, is nowadays a frontier of nuclear physics [1,2,4]. In heavy nuclei, on the other hand, the existence of α clusters remains elusive [5,6]. It has been postulated as a pre-requisite in α decay theories since Gamow’s pioneering work in the 1920s, but direct experimental evidence has not been reported so far [5-7]. Recent generalized relativistic density functional (gRDF) calculations[8-9] and measurements in heavy-ion collisions[10] suggest that α-clustering occurs in low-density nuclear environment such as the surface region of heavy nuclei, which could explain the origin of α particles in the α decay process. The gRDF calculation further suggests a tight interplay between surface α-clustering and neutron-skin thickness in heavy nuclei, which will impact our understanding of the density dependence of the symmetry energy in the nuclear equation of state [8-9]. In this talk I will present our recent results on the α-clustering strength and its isotopic trend in the sin isotopic chain. We have carried out direct measurements on α-clustering strength at the surface of tin isotopes 112,116,120,124Sn by using quasi-free (p,pα) reaction with the high-resolution spectrometers of RCNP, Osaka University[11]. Our result provides direct evidence for the formation of α clusters at the low-density surface region of heavy nuclei, and also supports the interplay between surface α-clustering and neutron-skin thickness in heavy nuclei, as predicted by the gRDF calculation[8-9]. At the end of my talk, I will also introduce our on-going projects to study the α-clustering in neutron-rich carbon isotopes using the quasi-free (p,pα) reaction at RIKEN RIBF.
+<br>[1] M. Freer et al. Rev. Mod. Phys. 90 (2018) 035004.
+<br>[2] W. von Oertzen, M. Freer, and Y. Kanada-En’yo, Phys. Rep. 432 (2006) 43.
+<br>[3] K. Ikeda, N. Tagikawa, and H. Horiuchi, Prog. Theor. Phys. Suppl. E 68(1968)464.
+<br>[4] P. Schuck et al. Phys. Scr. 91 (2016) 123001.
+<br>[5] Z. Ren and B. Zhou, Front. Phys. 13 (2018) 132110.
+<br>[6] C. Qi, Prog. Part. Nucl. Phys. 105 (2019) 214.
+<br>[7] G. Gamow, Z. Phys. 51(1928) 204.
+<br>[8] S. Typel, et al., Phys. Rev. C 81 (2010) 015803.
+<br>[9] S. Typel, Phys. Rev. C 89 (2014) 064321.
+<br>[10] K. Hagel, Phys. Rev. Lett. 108 (2012)062702
+<br>[11] M. Fujiwara et al., Nucl. Inst. Meth. A 422 (1999) 484.
+"
   subtype: presentation
   speakers: [19]
   language: en
