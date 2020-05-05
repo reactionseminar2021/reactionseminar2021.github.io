@@ -231,7 +231,7 @@ reaction treatment produces B(E1) distributions for 11Be from break-up cross sec
 
 -
   id: 015
-  title: "TBD"
+  title: "Dynamics and decay of three-body nuclei"
   description: "Three-body nuclei, from stable Borromean systems (9Be, 12C) to two-neutron halos (6He, 11Li, 14Be) and two-nucleon emitters (6Be, 16Be, 26O), challenge our nuclear physics knowledge. Their exotic properties and reaction mechanisms have motivated extensive developments, both for theory and experiments, over the past few decades. In this seminar, I will discuss how to describe three-body nuclear systems by using a pseudostate method within the hyperspherical harmonics framework. As an example of application, I will consider the case of 29F, a Borromean nucleus at the border of the island of inversion and possibly a two-neutron halo. I will discuss recent experimental results for 28,29F and how they can be used to refine theoretical models, which, in turn, allow us to make new predictions. Then, I will briefly comment on four-body continuum discretized coupled-channels calculations to analyze reactions induced by three-body nuclei, focusing on 9Be scattering and highlighting some other interesting cases. Lastly, I will present a novel procedure to identify and characterize three-body resonances, allowing us to study their decay properties, in particular for the two-neutron emitter 16Be."
   subtype: presentation
   speakers: [5]
