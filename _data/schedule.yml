@@ -226,7 +226,7 @@
 
 
 - 
-  date: "2020-05-28"
+  date: "2020-06-02"
   dateReadable: "June 2"
   tracks: 
     - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
@@ -234,7 +234,7 @@
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [025]
+    	sessionIds: [026]
     }
     
 
