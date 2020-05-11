@@ -74,15 +74,7 @@ http://osiris.df.unipi.it/~angela/'
   thumbnailUrl: Angela.jpg
   
   
-- 
-  id: 7
-  name: "Jesús"
-  surname: "Lubián Ríos"
-  company: "Universidade Federal Fluminense"
-  title: "Professor"
- # bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: null.jpg
-  
+
   
 - 
   id: 8
@@ -211,3 +203,72 @@ http://osiris.df.unipi.it/~angela/'
   title: "Postdoc "
   bio: 'Jie Chen is now a postdoctoral researcher at Michigan State University and the Facility for Rare Isotope Beams. She got her Ph.D. at Peking University in 2016 and has been a postdoctoral researcher in Argonne National Laboratory in the following three years. Her research interest focuses on the study of the single-particle structures of exotic or weakly bound nuclei using transfer reactions. '
   thumbnailUrl: JieChen.jpg
+  
+  
+- 
+  id: 21
+  name: "Pierre"
+  surname: "Descouvemont"
+  company: "Université Libre de Bruxelles"
+  title: " "
+  bio: ''
+  thumbnailUrl: null.jpg  
+ 
+ 
+ - 
+  id: 22
+  name: "Jesús"
+  surname: "Lubián Ríos"
+  company: "Universidade Federal Fluminense"
+  title: "Professor"
+  bio: ''
+  thumbnailUrl: null.jpg   
+  
+  
+ - 
+  id: 23
+  name: "Jutta"
+  surname: "Escher"
+  company: "Lawrence Livermore National Laboratory"
+  title: "Staff Scientist"
+  bio: ''
+  thumbnailUrl: null.jpg 
+
+ - 
+  id: 24
+  name: "Charlotte"
+  surname: "Elster"
+  company: "Ohio University"
+  title: "Professor"
+  bio: ''
+  thumbnailUrl: null.jpg  
+  
+ - 
+  id: 25
+  name: "Andrea"
+  surname: "Idini"
+  company: "Lund University"
+  title: "Associate Senior Lecturer"
+  bio: ''
+  thumbnailUrl: null.jpg  
+
+
+ - 
+  id: 26
+  name: "Toan Phuc"
+  surname: "Nguyen Tri"
+  company: "University of Science, VNU-HCM"
+  title: ""
+  bio: ''
+  thumbnailUrl: null.jpg  
+  
+
+ - 
+  id: 27
+  name: "Jaun"
+  surname: "Manfred"
+  company: " "
+  title: ""
+  bio: ''
+  thumbnailUrl: null.jpg  
+  

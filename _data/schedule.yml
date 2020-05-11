@@ -222,3 +222,89 @@
     	endTime: "10:00",
     	sessionIds: [016]
     }
+    
+    
+- 
+  date: "2020-06-04"
+  dateReadable: "June 4"
+  tracks: 
+    - {title: "(Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [019]
+    }
+    
+- 
+  date: "2020-06-09"
+  dateReadable: "June 9"
+  tracks: 
+    - {title: "(Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [020]
+    }
+
+
+- 
+  date: "2020-06-11"
+  dateReadable: "June 11"
+  tracks: 
+    - {title: "(Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [021]
+    }
+    
+- 
+  date: "2020-06-16"
+  dateReadable: "June 16"
+  tracks: 
+    - {title: "(Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [022]
+    }
+
+- 
+  date: "2020-06-18"
+  dateReadable: "June 18"
+  tracks: 
+    - {title: "(Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [023]
+    }
+    
+- 
+  date: "2020-06-22"
+  dateReadable: "June 22"
+  tracks: 
+    - {title: "(Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [024]
+    }
+    
+- 
+  date: "2020-06-25"
+  dateReadable: "June 25"
+  tracks: 
+    - {title: "(Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [025]
+    }
