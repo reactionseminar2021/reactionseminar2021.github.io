@@ -294,8 +294,25 @@ reaction treatment produces B(E1) distributions for 11Be from break-up cross sec
 
 -
   id: 019
-  title: "TBD"
-  description: "TBD"
+  title: "Low-energy 11Li + p and 11Li + d scattering in a multicluster model"
+  description: "The 11Li + p and 11Li + d reactions are investigated in the Continuum Discretized Coupled Channel
+(CDCC) method with a three-body description (9Li + n + n) of 11Li. I first discuss the properties
+of 11Li, and focus on E1 transition probabilities to the continuum. The existence of a 1- resonance
+at low excitation energies is confirmed, but the associated E1 transition from the ground state does
+not have an isoscalar character, as suggested in a recent experiment. In a second step, I study the
+11Li + p elastic cross section at Elab = 66 MeV in the CDCC framework. I obtain a fair agreement
+with experiment, and show that breakup eects are maximal at large angles. 
+
+<br>From CDCC equivalent 11Li + p and 11Li + n potentials, I explore
+the 11Li + d cross section within a standard three-body 11Li + (p + n) model. At small angles, the
+experimental cross section is close to the Rutherford scattering cross section, which is not supported
+by the CDCC. A five-body (9Li+n+n)+(p+n) calculation is then performed. Including breakup
+states in 11Li and in the deuteron represents a numerical challenge for theory, owing to the large
+number of channels. Although a full convergence could not be reached, the CDCC model tends to
+overestimate the data at small angles. I suggest that measurements of the 9Li + p elastic scattering
+would be helpful to determine more accurate optical potentials. The current disagreement between
+experiment and theory on 11Li + d scattering also deserves new experiments at other energies.
+"
   subtype: presentation
   speakers: [21]
   language: en
