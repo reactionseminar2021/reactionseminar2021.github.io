@@ -215,12 +215,12 @@
   date: "2020-05-28"
   dateReadable: "May 28"
   tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
+    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [016]
+    	sessionIds: [027]
     }
     
 

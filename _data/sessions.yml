@@ -409,5 +409,17 @@ experiment and theory on 11Li + d scattering also deserves new experiments at ot
 
 
 
+-
+  id: 027
+  title: "Reaction dynamics studies for the interaction of the Radioactive Ion Beams 7Be and 8B with a 208Pb target at Coulomb barrier energies"
+  description: "he reaction dynamics induced by light weakly-bound Radioactive Ion Beams (RIBs) at Coulomb barrier energies has attracted the interest of the Nuclear Physics community for the last three decades. Compared to standard well-bound nuclei along the valley of stability, breakup related effects largely enhance the reaction probability for these RIBs especially at sub-barrier energies. The investigation now concentrate in understanding what processes are mainly responsible for the reaction cross section enhancement. Studies performed with n-halo nuclei, such as 6He and 8He,  indicated transfer channels as the most relevant reaction mechanisms at sub-barrier energies, while results for the interaction of the p-halo 8B with medium-mass targets, such as 58Ni, showed an enhancement of the sub-barrier fusion cross section. 
+<br>With the aim of shedding some light on this topic, we investigated for the first time the elastic scattering process for the reaction 8B+208Pb at Coulomb barrier energies. The experiment was performed with the CRIB facility in Japan. The study was integrated by the first measurement of the elastic scattering differential cross section for the system 7Be+208Pb at three energies around the Coulomb barrier, being 7Be the core nucleus of the weakly-bound p-halo nucleus 8B (Sp = 0.1375 MeV). This second experiment was performed in Italy with the facility EXOTIC. The collected data were analyzed within the framework of the optical model in order to extract the reaction cross sections. The comparison with the results obtained for reactions induced by other light weakly-bound nuclei indicates an enhancement by a factor of 2 for the 8B reaction cross section. Preliminary theoretical investigations suggest that this enhancement should be mainly due to the breakup process 8B→7Be+p."
+  subtype: presentation
+  speakers: [28]
+  language: en
+#  complexity: "Intermediate" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+
 
 
