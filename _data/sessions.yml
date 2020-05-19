@@ -49,8 +49,10 @@ for important differences in their reaction mechanisms, which shows to be direct
   subtype: presentation
   speakers: [8]
   language: en
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  presentation: "https://reactionseminar.github.io/files/Seminar_JPFernandez.pdf"
+  video: "https://www.youtube.com/embed/JB7k2LK5tKA"
+
+
 -
   id: 003
   title: "Unravelling the mechanisms for suppression of complete fusion in reactions of weakly bound nuclei"
