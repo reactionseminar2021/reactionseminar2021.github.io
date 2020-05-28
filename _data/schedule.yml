@@ -202,7 +202,7 @@
   date: "2020-05-26"
   dateReadable: "May 26"
   tracks: 
-    - {title: "Experiment (Eastern Standard Time), Click <a href='https://msu.zoom.us/j/356148920'> here</a> to join", color: "#90be4e"}
+    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
@@ -228,7 +228,7 @@
   date: "2020-06-02"
   dateReadable: "June 2"
   tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
+    - {title: "Theory (Eastern Standard Time), Click <a href='https://msu.zoom.us/j/356148920'> here</a> to join", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
