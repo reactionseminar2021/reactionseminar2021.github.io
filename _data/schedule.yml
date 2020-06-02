@@ -254,7 +254,7 @@
   date: "2020-06-09"
   dateReadable: "June 9"
   tracks: 
-    - {title: "(Eastern Standard Time)", color: "#90be4e"}
+    - {title: "<b>CANCELED</b>", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
