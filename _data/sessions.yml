@@ -339,8 +339,20 @@ experiment and theory on 11Li + d scattering also deserves new experiments at ot
 
 -
   id: 021
-  title: "TBD"
-  description: "TBD"
+  title: "Surrogate reactions: Doorways to cross sections for unstable isotopes"
+  description: "Obtaining reliable data for nuclear reactions on unstable isotopes remains an extremely important task and a formidable challenge. Cross sections for neutron-induced reactions are particularly elusive, as both projectile and target are unstable. Various indirect methods have been proposed to address this problem. The 'surrogate reaction method' [1] uses inelastic scattering or transfer ('surrogate') reactions to produce the compound nucleus of interest and measure its subsequent decay. When combined with a proper theoretical description of the reaction mechanisms that produce the compound nucleus, it is possible to extract the desired cross section from this indirect decay data. A key challenge for nuclear theory is to obtain a better understanding of the doorway states that link the direct (surrogate) reaction with the compound nucleus of interest [2,3].
+
+<br>I will illustrate the procedure for obtaining neutron capture cross sections and present results for both known (benchmark) and unknown reactions [4]. The method makes no use of auxiliary constraining quantities, such as neutron resonance data, or average radiative widths, which are not available for short-lived isotopes; thus it can be applied to isotopes away from stability. Opportunities for determining cross sections for reactions other than neutron capture will be considered.
+
+<br>[1] Escher et al, Rev. Mod. Phys. 84, 353 (2012).
+<br>[2] Escher and Dietrich, PRC 74, 054601 (2006).
+<br>[3] Forssen et al, PRC 75, 055807 (2007); Escher and Dietrich, PRC 81, 024612 (2010); Scielzo et al, PRC 81, 034608 (2010); Chiba and O. Iwamoto, PRC 81, 044604 (2010); Boutoux et al, PLB 712, 319 (2012); Ducasse et al, PRC 94, 024614 (2016).
+<br>[4] Escher et al, PRL 121, 052501 (2018), Ratkiewicz et al, PRL 122, 052502 (2019).
+
+<br>* This work is performed under the auspices of the U.S. Department of Energy by
+Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. Support
+from the Laboratory Directed Research and Development Program at LLNL, Projects No.
+16-ERD-022 and 19-ERD-017, is acknowledged."
   subtype: presentation
   speakers: [23]
   language: en
