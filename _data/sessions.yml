@@ -320,8 +320,10 @@ experiment and theory on 11Li + d scattering also deserves new experiments at ot
   subtype: presentation
   speakers: [21]
   language: en
-#  complexity: "Intermediate" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "https://reactionseminar.github.io/files/li11d_zoom.pdf"
+  video: "https://www.youtube.com/embed/o4pCOsq9AfI"
+
+
 
 
 
@@ -373,8 +375,10 @@ from the Laboratory Directed Research and Development Program at LLNL, Projects 
 
 -
   id: 023
-  title: "TBD"
-  description: "TBD"
+  title: "Construction of microscopic optical potentials"
+  description: "I will present the theory and results regarding the construction of optical potentials from ab initio methods. In particular, I will present the the elastic scattering of neutrons off oxygen and calcium isotopes calculated using self-consistent Green’s function theory [1]. This method is benchmarked against the no-core shell model with continuum calculations, showing that virtual excitations of the target are crucial to predict proper fragmentation and absorption at higher energies. 
+
+<br>[1] A. Idini, C. Barbieri, and P. Navrátil, 'Ab Initio Optical Potentials and Nucleon Scattering on Medium Mass Nuclei', Phys. Rev. Lett. 123, 092501"
   subtype: presentation
   speakers: [25]
   language: en
