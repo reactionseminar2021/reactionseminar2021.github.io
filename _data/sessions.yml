@@ -364,8 +364,12 @@ from the Laboratory Directed Research and Development Program at LLNL, Projects 
 
 -
   id: 022
-  title: "TBD"
-  description: "TBD"
+  title: "Ab initio  leading-order effective interactions for elastic scattering of nucleons from light nuclei"
+  description: "The calculation and derivation of microscopic optical potentials for obtaining scattering observables for elastic scattering from spin-zero nuclei has a long tradition. So-called microscopic `full-folding' models based on a nuclear density matrix and a fully-off-shell two-nucleon t-matrix have been developed mainly for closed shell nuclei heavier than Oxygen-16 in the 1990s. With the advent of it ab initio structure calculations e.g. in the No-Core-Shell Model (NCSM) for light nuclei, nonlocal as well as translationally invariant one-body densities can be constructed and employed in calculations of effective interactions in nucleon-nucleus scattering.
+
+<br>Based on the spectator expansion of the multiple scattering series we employ a chiral next-to-next-to-leading order (NNLO) nucleon-nucleon interaction on the same footing in the structure as well as in the reaction calculation to obtain an in leading-order consistent effective potential for nucleon-nucleus elastic scattering, which includes the spin of the struck target nucleon.
+
+<br>This talk will highlight essential ingredients to deriving this leading-order ab initio effective potential.  Elastic scattering observables for Helium and Carbon isotopes in the energy regime between about 100 and 200 MeV laboratory projectile energy will be discussed."
   subtype: presentation
   speakers: [24]
   language: en

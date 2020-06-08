@@ -240,8 +240,11 @@ http://osiris.df.unipi.it/~angela/'
   surname: "Elster"
   company: "Ohio University"
   title: "Professor"
-  bio: ''
-  thumbnailUrl: null.jpg  
+  bio: "Charlotte Elster is a theoretical nuclear physicist. Her early research on the strong force between nucleons (i.e. protons and neutrons) has set the stage for her current research on nuclei made up of few protons and neutrons.
+<br>Although much is now known about the strong forces between pairs of nucleons, there is much to learn about their dynamical roles in nuclei with many nucleons. Nuclei with only few neutrons and protons, the few-body systems, are small enough to be accurately modeled yet complex enough to present great challenges. To unveil the mechanisms through which few-body systems are built, Elster employs high-performance computing methods using powerful supercomputers consisting of hundreds of processors to carry out complex modeling tasks. She has always been interested in using supercomputers to the limits, and in her research has developed new numerical tools to accurately model few-body systems. In addition she uses her experience in describing few-body systems to model nuclear reactions.
+<br>In 2001, Elster was elected a Fellow of the American Physical Society (Few-Body Systems and Multi-Particle Dynamics) 'for her significant contributions to the understanding of the nucleon-nucleon interaction and its applications in few-body systems and nuclear reactions.'
+<br>Elster's way to stay fit for her job is figure skating in which she combines physics and geometry to mutual advantage. She regularly practices her jumps and spins at Ohio University's Bird Arena during early morning hours."
+  thumbnailUrl: elster_charlotte.jpg
   
 - 
   id: 25
