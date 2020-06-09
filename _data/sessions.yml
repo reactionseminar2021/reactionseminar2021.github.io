@@ -403,8 +403,8 @@ from the Laboratory Directed Research and Development Program at LLNL, Projects 
 
 -
   id: 025
-  title: "TBD"
-  description: "TBD"
+  title: "Asymmetry Dependence of Spectroscopic Factors with Transfer Reactions"
+  description: 'A discrepancy exists in the asymmetry dependence of spectroscopic factors extracted with different reaction techniques. In this work, we present extracted spectroscopic factors from the 46Ar(p,d) and 34Ar(p,d) transfer reactions in inverse kinematics. We used a "knockout-like" beam energy of 70 MeV/u (higher than what is typically used for transfer reactions) in order to test the consistency of the transfer-reaction technique. The results are consistent with previous measurements of these reactions at a lower beam energy [Lee et al., PRL 104 122701 (2010)], indicating that the transfer reaction is a reliable probe for nuclear structure across a wide energy range. Experimental and theoretical evidence makes a compelling case for weak asymmetry dependence, as opposed to the strong dependence observed with single-nucleon knockout reactions on beryllium targets. Further reaction theory development is needed to resolve this disagreement.'
   subtype: presentation
   speakers: [27]
   language: en
