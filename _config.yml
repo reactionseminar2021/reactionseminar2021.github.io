@@ -10,13 +10,13 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Reaction Seminar"
+title: "Reaction Seminar 2021"
 description: "Reaction Seminar is a set of seminars in the field of nuclear reactions"
 baseurl: "/"
-url: "reactionseminar.github.io"
+url: "reactionseminar2021.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-161771703-1"
-googleAnalyticsSiteUrl: "reactionseminar.github.io"
+googleAnalyticsSiteUrl: "reactionseminar2021.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Head
@@ -49,8 +49,8 @@ eventDate: "March - June, 2020"
 
 # About Block
 aboutTitle: "About Reaction Seminar"
-aboutText1: "For the special time period of COVID-19, we would like to organize a 
-series of online seminars that everybody can join. The seminars will cover all fields of nuclear reaction with 
+aboutText1: "For the special time period of COVID-19, we would like to organize a
+series of online seminars that everybody can join. The seminars will cover all fields of nuclear reaction with
 special emphasis on the description and interpretation of different types of direct reactions: elastic/inelastic scattering,
 breakup, quasi-free (p,pN) processes, charge-exchange, … "
 
@@ -71,9 +71,4 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:jinlei@pi.infn.it", text: "jinlei@pi.infn.it"}
-
-
-
-
-
+   - {link: "mailto:jinl@tongji.edu.cn", text: "jinl@tongji.edu.cn"}
