@@ -92,8 +92,10 @@
 
 -
   id: 010
-  title: "XXX"
-  description: "XXXX"
+  title: "Two-neutron transfer reactions as a tool to study the interplay between shape coexistence and quantum phase transitions"
+  description: "The atomic mass table presents zones where the structure of the states changes rapidly as a function of the neutron or proton number. The observed fundamental phenomena can be understood in terms of either shape coexistence or quantum phase transitions.  I will try to show that two-neutron transfer intensities between the 0+ states in the parent and daughter nuclei can be used as an observable that can distinguish between the two situations. Using as structure framework for this study the Interacting Boson Model (IBM), including its version with configuration mixing (IBM-CM), we discuss the cases of the isotopic chains in Zirconium, Platinum and Samarium.
+
+<br>(*)  In collaboration with Jose’ Enrique Garcia Ramos, Jose’ Arias, Juan Antonio Lay and Lorenzo Fortunato"
   subtype: presentation
   speakers: [10]
   language: en

@@ -95,9 +95,14 @@
   id: 10
   name: "Andrea"
   surname: "Vitturi"
-  company: "XXX"
-  title: "XXXX"
-  bio: 'XXX'
+  company: "University of Padova "
+  title: "Honorary professor"
+  bio: "Doctor in Physics (summa cum laude) at the University of Padova in 1972.
+<br>Post-doc in Padova since 1973. Research associate at the Niels Bohr Institute, Copenhagen, from 1977 to 1980. Staff member in Padova since 1980. Associate professor in nuclear physics at the University of Trento since 1988 and in Padova since 1991. Full professor in nuclear physics at the University of Padova since 2001.   Honorary professor since 2019.
+<br>Research periods at ICTP, at the Universities of Munich and Seville, at Oak Ridge Laboratory, at CNEA in Buenos Aires, at ECT* in Trento e INT in Seattle. Visiting professor for the full academic year 2005/2006 at University of Sevilla. Professeur Invitee' at the University of Paris VI, Orsay, in 2011. Foreign Researcher at UFF, Niteroi, Rio de Janeiro, within the SCIENCE WITHOUT BORDERS PROGRAM, 2014-2016.  Visiting professor in Tsukuba, 2017  
+<br>Former Chairman of the PAC of LNL, former member of the PAC of LNS, presnt member of the PAC of RIKEN.  Organizer of workshops and schools, including the ones in Varenna, Erice, ECT*, Padova and Fiera di Primiero.
+<br>Author (and co-author) of more than 200 papers on refereed intenational journals.
+"
   thumbnailUrl: null.jpg
 
 -

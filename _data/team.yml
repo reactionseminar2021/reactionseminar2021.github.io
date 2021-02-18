@@ -1,52 +1,52 @@
-- 
+-
   id: 0
   name: "Jin Lei"
   surname: ""
-  title: "Postdoc"
+  title: "Research Fellow"
   thumbnailUrl: Jin.jpg
   team: true
-#  ribbon: 
-  social: 
+#  ribbon:
+  social:
     - {name: "site", link: "https://jinleiphys.github.io"}
     - {name: "facebook", link: "https://www.facebook.com/jin.lei.129"}
     - {name: "email", link: "mailto:jinlei@pi.infn.it"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/jin-lei-10b98473/"}
     - {name: "github", link: "https://github.com/jinleiphys"}
     - {name: "skype", link: "skype:jinlei.phys?call"}
-    
-    
-    
-- 
+
+
+
+-
   id: 1
   name: "Mario"
   surname: "Gómez Ramos"
   title: "Postdoc"
   thumbnailUrl: Mario_Gomez.jpg
   team: true
-#  ribbon: 
-  social: 
+#  ribbon:
+  social:
 #    - {name: "github", link: "https://github.com/xxx"}
     - {name: "site", link: "https://www.tu-darmstadt.de/forschen/international_forschen/humboldt_stipendiaten/artikel_details_de_en_217472.en.jsp"}
     - {name: "email", link: "mailto:mgomez@ikp.tu-darmstadt.de"}
-- 
+-
   id: 2
   name: "Kaitlin"
   surname: "Cook"
   title: " Assistant Professor"
   thumbnailUrl: Kaitlin.jpg
   team: true
-  social: 
+  social:
 #    - {name: "twitter", link: "https://twitter.com/XX"}
     - {name: "site", link: "https://www.nscl.msu.edu/directory/cookk.html"}
     - {name: "email", link: "mailto:cookk@frib.msu.edu"}
-- 
+-
   id: 3
   name: "Jesús"
   surname: "Casal"
   title: "Assistant Professor (RTDa)"
   thumbnailUrl: Jesus.jpg
   team: true
-  social: 
+  social:
 #    - {name: "github", link: "https://github.com/XXX"}
      - {name: "site", link: "https://sites.google.com/view/jcasal"}
      - {name: "email", link: "mailto:casal@pd.infn.it"}
