@@ -122,8 +122,12 @@
 
 -
   id: 013
-  title: "XXX"
-  description: "XXXX"
+  title: "Reaction cross sections of drip-line nuclei with the Gamow Shell Model"
+  description: "Nuclei far away from the valley of stability are actively studied at experimental and theoretical levels. Due to their small nucleon separation energies, nuclei at drip-lines can present halos in the asymptotic region and nuclear states can be unbound with respect to particle emission.
+
+<br>A nuclear model able to treat drip-line nuclei consistently is the Gamow Shell model (GSM). GSM is a configuration interaction model based on the use of the one-body Berggren basis, which contains bound, resonance and scattering states. Inter-nucleon correlations are taken into account via the use of configuration mixing, so that both structure and reaction degrees of freedom are included in GSM.
+
+<br>We will firstly present applications of GSM concerning the spectra of light nuclei. GSM has also been extended to the study of reaction observables. Scattering and radiative capture cross sections of light nuclei involving nucleon and deuteron projectiles will be presented for that matter. In particular, the important topic of transfer (d,p) reactions will be discussed."
   subtype: presentation
   speakers: [13]
   language: en
