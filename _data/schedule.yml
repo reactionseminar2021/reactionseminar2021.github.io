@@ -1,7 +1,7 @@
-- 
-  date: "2020-03-26"
-  dateReadable: "March 26"
-  tracks: 
+-
+  date: "2021-03-18"
+  dateReadable: "March 18"
+  tracks:
     - {title: "Theory (Eastern Standard Time).", color: "#90be4e"}
   timeslots:
     - {
@@ -11,97 +11,97 @@
     }
 
 
-- 
-  date: "2020-04-02"
-  dateReadable: "April 2"
-  tracks: 
-    - {title: "Experiment (Eastern Standard Time). ", color: "#90be4e"}
+-
+  date: "2021-03-25"
+  dateReadable: "March 25"
+  tracks:
+    - {title: "Theory (Eastern Standard Time). ", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [014]
+    	sessionIds: [002]
     }
-    
-
-- 
-  date: "2020-04-07"
-  dateReadable: "April 7"
-  tracks: 
-    - {title: "Experimental (<b>Special time</b>; Eastern Standard Time) ", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:30",
-    	endTime: "10:30",
-    	sessionIds: [005]
-    }    
-    
-- 
-  date: "2020-04-09"
-  dateReadable: "April 9"
-  tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [ 004]
-    }    
 
 
-- 
-  date: "2020-04-14"
-  dateReadable: "April 14"
-  tracks: 
-    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [008]
-    } 
-- 
-  date: "2020-04-16"
-  dateReadable: "April 16"
-  tracks: 
-    - {title: "Experiment (Eastern Standard Time) ", color: "#90be4e"}
+-
+  date: "2021-04-01"
+  dateReadable: "April 1"
+  tracks:
+    - {title: " ( Eastern Standard Time) ", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
     	endTime: "10:00",
     	sessionIds: [003]
     }
- 
-- 
-  date: "2020-04-21"
-  dateReadable: "April 21"
-  tracks: 
+
+-
+  date: "2021-04-08"
+  dateReadable: "April 8"
+  tracks:
     - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [011]
-    } 
-   
-- 
-  date: "2020-04-23"
-  dateReadable: "April 23"
-  tracks: 
+    	sessionIds: [ 004]
+    }
+
+
+-
+  date: "2021-04-15"
+  dateReadable: "April 15"
+  tracks:
+    - {title: "(Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [005]
+    }
+-
+  date: "2021-04-22"
+  dateReadable: "April 22"
+  tracks:
+    - {title: "Experiment (Eastern Standard Time) ", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [006]
+    }
+
+-
+  date: "2021-04-29"
+  dateReadable: "April 29"
+  tracks:
+    - {title: "(Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [007]
+    }
+
+-
+  date: "2021-05-06"
+  dateReadable: "May 6"
+  tracks:
     - {title: "Theory (Eastern Standard Time) ", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [012]
+    	sessionIds: [008]
     }
 
 
-- 
-  date: "2020-04-28"
-  dateReadable: "April 28"
-  tracks: 
-    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
+-
+  date: "2021-05-13"
+  dateReadable: "May 13"
+  tracks:
+    - {title: "(Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
@@ -110,46 +110,46 @@
     }
 
 
-- 
-  date: "2020-04-30"
-  dateReadable: "April 30"
-  tracks: 
+-
+  date: "2021-05-20"
+  dateReadable: "May 20"
+  tracks:
     - {title: "Theory (Eastern Standard Time) ", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [007]
-    }
-    
-- 
-  date: "2020-05-05"
-  dateReadable: "May 5"
-  tracks: 
-    - {title: "(Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [006]
-    }     
-   
-- 
-  date: "2020-05-07"
-  dateReadable: "May 7"
-  tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
     	endTime: "10:00",
     	sessionIds: [010]
     }
-    
-- 
-  date: "2020-05-12"
-  dateReadable: "May 12"
-  tracks: 
+
+-
+  date: "2021-05-27"
+  dateReadable: "May 27"
+  tracks:
+    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [011]
+    }
+
+-
+  date: "2021-06-03"
+  dateReadable: "June 3"
+  tracks:
+    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [012]
+    }
+
+-
+  date: "2021-06-10"
+  dateReadable: "June 10"
+  tracks:
     - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
@@ -158,37 +158,23 @@
     	sessionIds: [013]
     }
 
-- 
-  date: "2020-05-14"
-  dateReadable: "May 14"
-  tracks: 
-    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
+-
+  date: "2021-06-17"
+  dateReadable: "June 17"
+  tracks:
+    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [018]
+    	sessionIds: [014]
     }
 
-  
-- 
-  date: "2020-05-19"
-  dateReadable: "May 19"
-  tracks: 
-    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [002]
-    }
-   
 
-
-- 
-  date: "2020-05-21"
-  dateReadable: "May 21"
-  tracks: 
+-
+  date: "2021-06-24"
+  dateReadable: "June 24"
+  tracks:
     - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
@@ -198,127 +184,15 @@
     }
 
 
-- 
-  date: "2020-05-26"
-  dateReadable: "May 26"
-  tracks: 
-    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [017]
-    }
 
-
-- 
-  date: "2020-05-28"
-  dateReadable: "May 28"
-  tracks: 
-    - {title: "Experiment (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [027]
-    }
-    
-
-- 
-  date: "2020-06-02"
-  dateReadable: "June 2"
-  tracks: 
+-
+  date: "2021-07-01"
+  dateReadable: "July 1"
+  tracks:
     - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [026]
-    }
-    
-
-    
-- 
-  date: "2020-06-04"
-  dateReadable: "June 4"
-  tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [019]
-    }
-    
-- 
-  date: "2020-06-09"
-  dateReadable: "June 9"
-  tracks: 
-    - {title: "<b>CANCELED</b>", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [020]
-    }
-
-
-- 
-  date: "2020-06-11"
-  dateReadable: "June 11"
-  tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [021]
-    }
-    
-- 
-  date: "2020-06-16"
-  dateReadable: "June 16"
-  tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [022]
-    }
-
-- 
-  date: "2020-06-18"
-  dateReadable: "June 18"
-  tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [023]
-    }
-    
-- 
-  date: "2020-06-23"
-  dateReadable: "June 23"
-  tracks: 
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [024]
-    }
-    
-- 
-  date: "2020-06-25"
-  dateReadable: "June 25"
-  tracks: 
-    - {title: "Experiment (<b>Special time</b>; Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "11:00",
-    	endTime: "12:00",
-    	sessionIds: [025]
+    	sessionIds: [016]
     }

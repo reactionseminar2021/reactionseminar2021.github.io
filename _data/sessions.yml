@@ -1,448 +1,182 @@
 -
   id: 001
-  title: "Analysis of 10Li and 11Li through intermediate-energy (p,pn) and low-energy transfer reactions"
-  description: "11Li has amassed a large interest among nuclear physicists since the seminal works by
-Tanihata and collaborators [1], which established it as a halo nuclei through its large reaction
-cross section. Since then, it has become the archetypical halo and Borromean nucleus, and its
-structure and that of its associated unbound subsystem, 10Li, have been the subject of extensive
-study. It is a testament to the challenges involving this nucleus that the structure of 10Li is
-under discussion up to this day [2].
-
-<br>In this talk, I will present the analysis of four experiments involving 10Li, including transfer 
-at low energies and neutron removal (p, pn) at intermediate ones, through the DWBA and
-Transfer to the Continuum formalisms. We use a consistent n-9Li interaction in all of them,
-finding a good description of the studied observables in all cases, thus reaching a firm description of the spectrum of 10Li, even in cases were previous analyses seemed contradictory. The
-results of this analysis can be found in [3-5].
-
-<br>[1] I. Tanihata et al, Phys. Rev. Lett. 55, 2676 (1985)
-<br>[2] H.T. Fortune, Phys. Lett. B 760, 577 (2016)
-<br>[3] J. Casal, M. Gomez-Ramos, and A.M. Moro, Phys. Lett. B 767, 307 (2017)
-<br>[4] M. Gomez-Ramos, J. Casal, and A.M. Moro, Phys. Lett. B 772, 115 (2017)
-<br>[5] A.M. Moro, J. Casal and M. Gomez-Ramos, Phys. Lett. B 793, 13 (2019)
-"
+  title: "XXX"
+  description: "XXXX"
   subtype: presentation
-  speakers: [2]
+  speakers: [1]
   language: en
-  presentation: "https://reactionseminar.github.io/files/PresMGomez.pdf"
-  video: "https://www.youtube.com/embed/l9qH_0x8F_w"
+  # presentation: "https://reactionseminar.github.io/files/PresMGomez.pdf"
+  # video: "https://www.youtube.com/embed/l9qH_0x8F_w"
 
 -
   id: 002
-  title: "Systematic nuclear potential for stable, weakly bound and exotic nuclei reactions"
-  description: "Nuclei present cluster structures. Light, strongly or weakly bound, stable or exotic, nuclei such
-as 6He; 6,7Li; 7,8,9Be; 12,13,14C; 16,18O; among others (isotopes and nuclei), can be considered as results of n;
-1,2,3H and 3,4He combinations. It has been evidenced by experimental observations on break-up or transfer reactions.
-Thus, to describe stable, weakly bound and exotic nuclei reactions, with the same theoretical approach, is extremely
-challenging in nuclear physics. Studying reactions involving weakly bound stable nuclei is a crucial step in between
-studying reactions with stable and exotic nuclei and towards a better understanding of the latter.
-
-<br>We present a systematic study of the nuclear potential in a wide systematic involving the elastic scattering of 4,6He,
-7,6Li, 9Be,10B and 16,18O projectiles on the same target at energies around the respective Coulomb barriers. 
-We will describe the different laboratories and experimental setups used to obtain these data.
-We report on optical model analyses based on the double-folding São Paulo potential. 
-In addition, we study the effect of Coulomb dipole polarization (CDP) potential, derived from the semi-classical theory 
-of Coulomb excitation. Within this approach, we study OP (real and imaginary) strengths as a function of the systems 
-4,6He; 6,7,9,11Li; 9,11Be; 12C; 16,18O.
-Our OP approach establishes a common basis for stable, weakly bound and exotic nuclei reactions, accounting
-for important differences in their reaction mechanisms, which shows to be directly related to their structural properties.
-"
+  title: "XXX"
+  description: "XXX"
   subtype: presentation
-  speakers: [8]
+  speakers: [2]
   language: en
-  presentation: "https://reactionseminar.github.io/files/Seminar_JPFernandez.pdf"
-  video: "https://www.youtube.com/embed/JB7k2LK5tKA"
+  # presentation: "https://reactionseminar.github.io/files/Seminar_JPFernandez.pdf"
+  # video: "https://www.youtube.com/embed/JB7k2LK5tKA"
 
 
 -
   id: 003
-  title: "Unravelling the mechanisms for suppression of complete fusion in reactions of weakly bound nuclei"
-  description: "Advanced radioactive beam facilities are opening a new era in nuclear physics, expanding our field into the region close to and beyond the drip lines in the nuclear chart. A very common feature of these nuclides is that they are weakly bound, with low thresholds for removal of one or more nucleons. Studying the reaction dynamics of light weakly-bound nuclei at and near stability with relatively intense beams allows us to perform detailed measurements of the role of weak binding in reaction outcomes.
- 
- <br>An important consequence of weak-binding in reactions of the light weakly-bound nuclei, 6,7,8Li and 9Be, is the suppression of complete fusion cross-sections by ~30 % at above-barrier energies compared to barrier penetration models, together with an associated large yield of incomplete fusion. The mechanism for the suppression of complete fusion has long been thought to be due to projectile breakup prior to reaching the fusion barrier. However, recent work has shown that the yields and characteristic timescales of breakup cannot explain the degree of fusion suppression.
- 
-<br>I will discuss recent measurements of the energy and angles of singles and coincidence Z=1,2 particles produced in above-barrier reactions of 7Li + 209Bi designed to reveal the mechanism behind incomplete fusion.  By subtracting the alpha-particles produced in no-capture breakup from those of the inclusive prompt alpha-particles, we extract cross-sections for alpha-particles unaccompanied by any other charged fragment. These are necessarily associated with incomplete fusion processes forming polonium isotopes.
- 
-<br>The characteristics of the unaccompanied alpha-particles are inconsistent with the conventional picture of breakup of 7Li followed by capture of a Z=1 fragment. The energy and angular distributions of the unaccompanied alpha particles suggest a direct, single step mechanism for incomplete fusion, where a triton is captured by the 209Bi target to produce 212Po, which subsequently evaporates neutrons consistent with statistical decay models.  These results are consistent with recent calculations using inclusive breakup models that suggest incomplete fusion is largely dominated by direct capture from the projectile ground state.
-"
-  subtype: presentation
-  speakers: [4]
-  language: en
-  video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
-  presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
-
-
--
-  id: 004
-  title: "Dissecting calculations of breakup and transfer reactions with halo nuclei using halo effective field theory"
-  description: "Halo nuclei exhibit a very exotic structure compared to stable nuclei [1]. Their major characteristic is a very large matter radius. This unusual size is now qualitatively understood as being due to their low separation energy for one or two neutrons. Thanks to this loose binding, these valence neutrons can wander far away from the other nucleons, forming like a diffuse halo around a compact core. Archetypical examples of such exotic structures are the one-neutron halo nuclei 11Be and 15C, and 6He and 11Li, with two neutrons in their halo. Being mostly found close to the neutron dripline, halo nuclei exhibit short lifetimes. Information about their structure has thus to be gathered from indirect techniques. Reactions performed at RIB facilities, like elastic scattering, transfer or breakup, are often used to study the structure of these exotic nuclei [1]. In order to infer reliable information from such measurements, the reaction mechanism must be well understood. An accurate model of the reaction coupled to a realistic description of the projectile is thus needed [2].
-<br>Since the early days of RIBs, various models of reactions have been developed, which have helped us better grasp the dynamics of these reactions [2]. It is also very important to understand what structure information can be obtained from the actual reaction measurements. Recently, we have suggested to couple accurate models of reactions to a description of halo nuclei within an effective field theory (Halo-EFT) [3]. Halo EFT [4] is built on the clear separation of scales that appear in halo nuclei: the loose of the halo opposed to the tight binding of the core. It enables us to expand the core-halo Hamiltonian in a power series of the small parameter obtained as the ratio of the small scale divided by the large scale. Each coefficient of this expansion can be related to nuclear-structure observables of the nucleus: its binding energy, the scattering length in the core-halo continuum etc. This very systematic expansion enables us to clearly estimate the structure observables, which affect the reaction process, and hence which can be inferred from actual measurements.
-<br>Initiated on breakup [3,5], this idea has been successfully extended to transfer [6,7] and knockout [8]. In addition to provide valuable information about the nuclear-structure observables that are probed by the reactions, this new method enables also to reliable constrain the description of halo nuclei used within reaction codes on ab-initio calculations of halo nuclei, which have now become possible, see, e.g., Ref.[9].
-<br>In this online seminar, I will present this new idea and illustrate it on the particular case of 11Be [3,5,7,9] and 15C [7,8] for breakup, transfer and knockout reactions.
-<br>References:
-<br>[1] I. Tanihata, J. Phys. G 22, 157 (1996).
-<br>[2] D. Baye and P. Capel, Breakup reaction models for two- and three-cluster projectiles, Lecture Notes
-in Physics 848, Ed. C. Beck (Springer, Heidelberg, 2012) pp. 121–163.
-<br>[3] P. Capel, D. R. Phillips and H.-W. Hammer, Phys. Rev. C 98, 034610 (2018).
-<br>[4] H.-W. Hammer, C. Ji, and D. R. Phillips, J. Phys. G 44, 103002 (2017).
-<br>[5] L. Moschini and P. Capel, Phys. Lett. B 790, 367 (2019).
-<br>[6] J. Yang and P. Capel, Phys. Rev. C 98, 054602 (2018).
-<br>[7] L. Moschini, J. Yang and P. Capel, Phys. Rev. C 100, 044615 (2019).
-<br>[8] C. Hebborn and P. Capel, Phys. Rev. C 100, 054607 (2019).
-<br>[9] A. Calci et al., Phys. Rev. Lett. 117, 242501 (2016)."
+  title: "XXX"
+  description: "XXXX"
   subtype: presentation
   speakers: [3]
   language: en
-  video: "https://www.youtube.com/embed/uTaKkvXebHk"
-#  complexity: "Intermediate" 
-  presentation: "https://reactionseminar.github.io/files/capelCorona20ho.pdf"
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
 
+  -
+    id: 004
+    title: "XXX"
+    description: "XXXX"
+    subtype: presentation
+    speakers: [4]
+    language: en
+    # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+    # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
 
 
 -
   id: 005
-  title: "Surrogates for Neutron-Induced Reactions in the FRIB era"
-  description: "<br>Neutron-induced reactions play a critical role in stellar nucleosynthesis. However, due to the short half-lives of the nuclei that participate in these processes, direct measurements of the reaction cross sections are very challenging or impossible. The difficulty in directly determining these important cross sections has motivated the development of several indirect techniques for constraining them, one of which is the Surrogate Reactions Method. This method experimentally constrains the desired cross section by measuring the decay of the “same” compound nucleus (CN) formed in a reaction that is easier to measure. The decay of the CN is measured, and observables from its decay are used to constrain parameters in Hauser-Feshbach calculations of the cross section for the desired reaction. 
-  <br>However, the entry spin distribution with which the CN is formed strongly influences its decay, so understanding the entry spin distribution for the CN made in the surrogate reaction is critical to the success of the Surrogate Reactions Method. I will discuss our efforts to understand the entry spin distribution induced by different reactions and the theoretical and experimental information required to do so. I also will share results from our applications of this technique to several neutron-capture reactions, thus far for measurements in normal kinematics. I will give prospects for the extension of this technique to inverse kinematics and for future measurements, for neutron capture as well as for other neutron-induced reactions. This work was supported in part by the U.S. Department of Energy National Nuclear Security Administration under the Stewardship Science Academic Alliances program, NNSA Grants No. DE-FG52-09NA29467 and No. DE-NA0000979 and the Lawrence Livermore National Laboratory Contract No. DE-AC52-07NA27344 and LDRD 16-ERD-022, Texas A&M Nuclear Physics Grant No. DE-FG02-93ER40773, the Office of Nuclear Physics, and the National Science Foundation."
-  subtype: presentation
-  speakers: [10]
-  language: en
-#  complexity: "Intermediate" 
-  video: "https://www.youtube.com/embed/kIizehSHJns"
-
-
--
-  id: 006
-  title: "Extracting B(E1) distributions from Coulomb-dominated break-up cross sections"
-  description: '<br>Experimental measurements of the B(E1) distributions of weakly bound nuclei are carried out by means of 
-Break-up experiments, on heavy targets. The measured break-up cross sections are interpreted using a simple
-reaction model, called the Equivalent Photon Method (EPM), which allows to extract "experimental" B(E1) distributions,
-which are, essentially, proportional to the break-up cross sections.
-This procedure can lead to cases, such as 11Be, for which incompatible experimental B(E1) distributions arise from
-break-up cross sections measured at different energies. 
-
-<br>Here we indicate how can one use state of the art reaction calculations, beyond EPM, to extract B(E1) distributions from the
-break-up cross sections, despite the uncertainties in the nuclear interactions and reaction dynamics. This proper
-reaction treatment produces B(E1) distributions for 11Be from break-up cross sections at different energies which are fully compatible.'
-  subtype: presentation
-  speakers: [9]
-  language: en
-  video: "https://www.youtube.com/embed/Q9w5jJXxuUE"
-  presentation: "https://reactionseminar.github.io/files/gomezcamacho_5may2020.pdf"
-  
-#  complexity: "Intermediate" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-
-
--
-  id: 007
-  title: "Benchmark of breakup models"
-  description: "In this talk I will discuss quantum mechanical, semiclassical and eikonal models for breakup reactions making a quantitative assessment of their relative accuracy. Also I will discuss if and how different models can or cannot describe different observables in inclusive and exclusive reactions. Results will be shown for both exotic and “normal” nuclei."
-  subtype: presentation
-  speakers: [6]
-  language: en
-  video: "https://www.youtube.com/embed/GtzhYwenfxE"
-  presentation: "https://reactionseminar.github.io/files/angela_react_seminar.pdf"
-#  complexity: "Intermediate" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-
-
-
--
-  id: 008
-  title: "Recent results on Borromean nuclei 11Li and 14Be via (p,pn) reaction"
-  description: "In this talk I will present the result of an experiment performed at RIKEN in order to study dineutron correlation in 11Li and 14Be via (p,pn) reactions. I will also focus on the spectroscopy on the unbound 13Be system populated in the reaction."
-  subtype: presentation
-  speakers: [11]
-  language: en
-  video: https://www.youtube.com/embed/lYCAYAuyn4s
-#  complexity: "Intermediate" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
- 
-
--
-  id: 009
-  title: "Investigation of nuclear reactions for the applications in Advance reactor, ADSS facility and nuclear data management"
-  description: "Enormous amount of experimental work has been carried out in low energy neutron induced reactions of actinides and nuclear structural materials [1-4]. However, experimental nuclear data in medium to high-energy neutron induced reactions are rare and very much limited. There is strong need to measure reaction cross sections of reactor fuel, cladding and shielding materials to the medium energy region with mono-energetic neutrons and also with protons and photons. Measurements of the different types of reaction cross sections in the above-mentioned energy region will help us to understand the energy dependence of the activation cross-sections in detail. This could lead us to develop Accelerator Driven Subcritical Systems (ADSs); which would be the future of reactor technology from the India’s perspective [5]. Along with ADSs, International Thermonuclear Experimental reactor (ITER) can also be a sustainable energy source in future. Therefore, it is necessary to study the neutron capture cross-sections for its magnetic materials, since the magnets used for holding the plasma get irradiated with secondary neutrons which are produced in the operation. There is strong need to measure reaction cross sections of fuel materials and reactor cladding and shielding materials to the medium energy region with mono-energetic neutrons.
-  <br>References 
-<br>1. Siddharth Parashari et al., Physical Review C 98, 014625 (2018).
-<br>2. Rajnikant Makwana et al., Physical Review C 96, 042608 (2017).
-<br>3. S. Mukherjee et al., Applied Radiation and Isotopes, 143, 72 (2019).
-<br>4. Vibha Vansola et al., Radiochimica Acta 2193-3405, 104, 749 (2016).
-<br>5. S. S. Kapoor, Pramana - J. Phys 59, 941 (2002)."
-  subtype: presentation
-  speakers: [12]
-  language: en
-  presentation: "https://reactionseminar.github.io/files/Surjit_Presentation.pptx"
-  video: "https://www.youtube.com/embed/8-480FXvu2A"
-
--
-  id: 010
-  title: "Progress in microscopic description of nucleon-nucleus elastic scattering at low-energy"
-  description: "I will present our current studies and future plans concerning the microscopic optical potential within a microscopic framework based on non-relativistic self-consistent mean field (plus correlations) approaches using nucleon-nucleon effective interactions, mostly of the Skyrme type."
-  subtype: presentation
-  speakers: [13]
-  language: en
-  video: "https://www.youtube.com/embed/LYtTrRMrPts"
-  presentation: "https://reactionseminar.github.io/files/hao_2020_MSU_Seminar.pdf"
-#  complexity: "Intermediate" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-
-
--
-  id: 011
-  title: "Uncertainty Quantification for Reaction Theory"
-  description: "The rigorous quantification of uncertainties in nuclear theory has gained a more prominent role over the last several years.  In few-body reaction theory, there are four main sources of uncertainties, coming from the effective interactions, approximations made in solving the few-body problem, the structure function, and degrees of freedom left out of the model space.  In this talk, I will detail the evolution of our techniques to quantify theoretical uncertainties, from standard chi-square minimization and covariance propagation to Bayesian methods, concentrating on the uncertainties that come from fitting the optical model to elastic scattering data.  I will discuss how these uncertainties propagate to single-nucleon transfer cross sections, and show comparisons between two different reaction theory formalisms.  Finally, I will make connections to my current work at Los Alamos."
-  subtype: presentation
-  speakers: [14]
-  language: en
-  video: "https://www.youtube.com/embed/6UnBnKhbdiQ"
-#  complexity: "Intermediate" 
-  presentation: "https://reactionseminar.github.io/files/Amy_talk.pdf"
-
--
-  id: 012
-  title: "Exploring experimental conditions to reduce uncertainties in the optical potential"
-  description: "Uncertainty quantification for nuclear theories has gained a more prominent role in the field, with more groups attempting to understand the uncertainties in their calculations. However, recent studies have shown that the uncertainties on the optical potentials are too large for the theory to be useful. The purpose of this work is to explore possible experimental conditions that may reduce the uncertainties on elastic scattering and single-nucleon transfer cross sections that come from the fitting of the optical model parameters to experimental data. We study proton and neutron elastic scattering on 48Ca and 208Pb. We also propagate the uncertainties on the optical potentials to the 48Ca(d,p)49Ca(g.s.) and 208Pb(d,p)209Pb(g.s.) cross sections. Using Bayesian methods, we explore the effect of the uncertainties of optical model parameters on the angular grid of the differential cross section, including cross-section data at nearby energies, and changes in the experimental error bars. We also study the effect on the resulting uncertainty when other observables are included in the fitting procedure, particularly the total (reaction) cross sections. We find little sensitivity to the angular grid and an improvement of up to a factor of 2 on the uncertainties by including data at a nearby energy. Although reducing the error bars on the data does reduce the uncertainty, the gain is often considerably smaller than one would naively expect. We also find that the inclusion of total reaction cross section can improve the uncertainty although the magnitude of the effect depends strongly on the cases considered. Additionally, we present some of our latest results in adding polarization data to the fit. "
-  subtype: presentation
-  speakers: [15]
-  language: en
-  video: "https://www.youtube.com/embed/2Qmd2paaJek"
-#  complexity: "Intermediate" 
-  presentation: "https://reactionseminar.github.io/files/Manuel_talk.pptx"
-
-
--
-  id: 013
-  title: "A nonlocal (d,p) reaction story"
-  description: "This is a story about how an attempt to understand the corrections for nonlocality, imbedded in transfer reaction codes and used in the adiabatic treatment of (d,p) reactions, lead to an understanding that nonlocality of optical potentials should be treated beyond the adiabatic approximation. More importantly, it lead to a big question: what is the justification for all three-body models we use to describe many-body systems?"
-  subtype: presentation
-  speakers: [16]
-  language: en
-  video: "https://www.youtube.com/embed/3vj0-egvmC8"
-  presentation: "https://reactionseminar.github.io/files/Natasha_ReactionSeminar-2020.pdf"
-
--
-  id: 014
-  title: "Constraining the momentum dependence of the Nuclear Equation of State"
-  description: "<br>Nucleons in dense nuclear matter appear to have reduced inertial masses due to momentum-dependent interactions they experience with other nucleons. This reduction of their masses is often referred to as their effective mass, and at saturation density the effective masses are about 70% of their vacuum mass. In asymmetric matter the effective masses of neutrons and protons can be different, leading to an effective-mass splitting. The sign and magnitude of this splitting is poorly constrained at densities away from saturation density. 
-<br>Recent experiments at the National Superconducting Cyclotron Laboratory were performed to help constrain these momentum-dependent interactions. By measuring the kinetic energy spectra of neutrons and protons, or analogously using “pseudo neutrons” from measured tritons and helium-3, the sign and magnitude of this effective-mass splitting can be extracted, with the help of transport models. Collisions of beams of 40,48Ca at 50 and 140 MeV/A impinged on targets of 58,64Ni and 112,124Sn, and the light, charged particles and neutrons emitted in these collisions were detected. Charged particles up to boron were detected, with isotopic resolution, in the upgraded High-Resolution Array and neutrons were detected in the Large-Area Neuron Array. I will discuss some of the important physics motivations for studying the nuclear Equation of State, present details about the experiment setup, and then discuss some first results on the spectral ratios with comparisons to transport model calculations. At the end I will discuss the future directions that can be looked forward to at the Facility for Rare Isotope Beams.
-<br>This research is supported by the National Science Foundation under Grant No. PHY-1565546 and the Department of Energy under Grant No. DE-NA0002923."
-  subtype: presentation
-  speakers: [18]
-  language: en
-  video: "https://www.youtube.com/embed/Q_cbJYA9Z9U"
-#  complexity: "Intermediate" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-
-
--
-  id: 015
-  title: "Dynamics and decay of three-body nuclei"
-  description: "Three-body nuclei, from stable Borromean systems (9Be, 12C) to two-neutron halos (6He, 11Li, 14Be) and two-nucleon emitters (6Be, 16Be, 26O), challenge our nuclear physics knowledge. Their exotic properties and reaction mechanisms have motivated extensive developments, both for theory and experiments, over the past few decades. In this seminar, I will discuss how to describe three-body nuclear systems by using a pseudostate method within the hyperspherical harmonics framework. As an example of application, I will consider the case of 29F, a Borromean nucleus at the border of the island of inversion and possibly a two-neutron halo. I will discuss recent experimental results for 28,29F and how they can be used to refine theoretical models, which, in turn, allow us to make new predictions. Then, I will briefly comment on four-body continuum discretized coupled-channels calculations to analyze reactions induced by three-body nuclei, focusing on 9Be scattering and highlighting some other interesting cases. Lastly, I will present a novel procedure to identify and characterize three-body resonances, allowing us to study their decay properties, in particular for the two-neutron emitter 16Be."
+  title: "XXX"
+  description: "XXXX"
   subtype: presentation
   speakers: [5]
   language: en
-  presentation: "https://reactionseminar.github.io/files/jcasal_rs2020-nobak.pdf"
-  video: "https://www.youtube.com/embed/pw6tZfyKh4U"
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
 
+-
+  id: 006
+  title: "XXX"
+  description: "XXXX"
+  subtype: presentation
+  speakers: [6]
+  language: en
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
 
+-
+  id: 007
+  title: "XXX"
+  description: "XXXX"
+  subtype: presentation
+  speakers: [7]
+  language: en
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
+
+-
+  id: 008
+  title: "XXX"
+  description: "XXXX"
+  subtype: presentation
+  speakers: [8]
+  language: en
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
+
+-
+  id: 009
+  title: "XXX"
+  description: "XXXX"
+  subtype: presentation
+  speakers: [9]
+  language: en
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
+
+-
+  id: 010
+  title: "XXX"
+  description: "XXXX"
+  subtype: presentation
+  speakers: [10]
+  language: en
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
+
+-
+  id: 011
+  title: "XXX"
+  description: "XXXX"
+  subtype: presentation
+  speakers: [11]
+  language: en
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
+
+-
+  id: 012
+  title: "XXX"
+  description: "XXXX"
+  subtype: presentation
+  speakers: [12]
+  language: en
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
+
+-
+  id: 013
+  title: "XXX"
+  description: "XXXX"
+  subtype: presentation
+  speakers: [13]
+  language: en
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
+
+-
+  id: 014
+  title: "First principles calculations of light-ion reactions"
+  description: "Arriving at a predictive modeling of big-bang nucleosynthesis and stellar interiors relies on having a robust understanding of the nuclear reactions that are essential building blocks of such processes. First-principles calculations have made great strides during the past years in bridging the gap from fundamental nucleon-nucleon and three-nucleon interactions derived from chiral effective field theory to the description of nuclear structure and dynamics. In this talk I will outline the basic principles of the no-core shell model with continuum, an ab initio approach aimed at describing the interface between structure and dynamics in nuclei, and discuss recent efforts in extending its applicability to α-induced reactions, as well as ongoing efforts for quantifying the uncertainties arising from chiral effective field theory to nuclear reaction predictions.
+  <br>This work was performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under contract DE-AC52-07NA27344. Lawrence Livermore National Security, LLC"
+  subtype: presentation
+  speakers: [14]
+  language: en
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
+
+-
+  id: 015
+  title: "XXX"
+  description: "XXXX"
+  subtype: presentation
+  speakers: [15]
+  language: en
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
 
 -
   id: 016
-  title: "Applications of the Ichimura-Austern-Vincent model to incomplete fusion and knockout reactions"
-  description: "TBD"
+  title: "XXX"
+  description: "XXXX"
   subtype: presentation
-  speakers: [1]
+  speakers: [16]
   language: en
-#  complexity: "Intermediate" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-
-
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
 
 -
   id: 017
-  title: "Study of α clustering in nuclei using quasi-free (p,pα) reaction"
-  description: "Formation of clusters in nuclei is a topic of interest and fundamental significance throughout the history of nuclear physics[1,2]. In light nuclei, development of cluster structure in states close to the corresponding decay threshold is a well established phenomenon (“Ikeda threshold rule[3]”). Search for novel cluster states in light nuclei, the α-condensate states (e.g Hoyle state), the molecular states in beryllium isotopes, and the 3-α-linear-chain states in carbon isotopes, is nowadays a frontier of nuclear physics [1,2,4]. In heavy nuclei, on the other hand, the existence of α clusters remains elusive [5,6]. It has been postulated as a pre-requisite in α decay theories since Gamow’s pioneering work in the 1920s, but direct experimental evidence has not been reported so far [5-7]. Recent generalized relativistic density functional (gRDF) calculations[8-9] and measurements in heavy-ion collisions[10] suggest that α-clustering occurs in low-density nuclear environment such as the surface region of heavy nuclei, which could explain the origin of α particles in the α decay process. The gRDF calculation further suggests a tight interplay between surface α-clustering and neutron-skin thickness in heavy nuclei, which will impact our understanding of the density dependence of the symmetry energy in the nuclear equation of state [8-9]. In this talk I will present our recent results on the α-clustering strength and its isotopic trend in the sin isotopic chain. We have carried out direct measurements on α-clustering strength at the surface of tin isotopes 112,116,120,124Sn by using quasi-free (p,pα) reaction with the high-resolution spectrometers of RCNP, Osaka University[11]. Our result provides direct evidence for the formation of α clusters at the low-density surface region of heavy nuclei, and also supports the interplay between surface α-clustering and neutron-skin thickness in heavy nuclei, as predicted by the gRDF calculation[8-9]. At the end of my talk, I will also introduce our on-going projects to study the α-clustering in neutron-rich carbon isotopes using the quasi-free (p,pα) reaction at RIKEN RIBF.
-<br>[1] M. Freer et al. Rev. Mod. Phys. 90 (2018) 035004.
-<br>[2] W. von Oertzen, M. Freer, and Y. Kanada-En’yo, Phys. Rep. 432 (2006) 43.
-<br>[3] K. Ikeda, N. Tagikawa, and H. Horiuchi, Prog. Theor. Phys. Suppl. E 68(1968)464.
-<br>[4] P. Schuck et al. Phys. Scr. 91 (2016) 123001.
-<br>[5] Z. Ren and B. Zhou, Front. Phys. 13 (2018) 132110.
-<br>[6] C. Qi, Prog. Part. Nucl. Phys. 105 (2019) 214.
-<br>[7] G. Gamow, Z. Phys. 51(1928) 204.
-<br>[8] S. Typel, et al., Phys. Rev. C 81 (2010) 015803.
-<br>[9] S. Typel, Phys. Rev. C 89 (2014) 064321.
-<br>[10] K. Hagel, Phys. Rev. Lett. 108 (2012)062702
-<br>[11] M. Fujiwara et al., Nucl. Inst. Meth. A 422 (1999) 484.
-"
-  subtype: presentation
-  speakers: [19]
-  language: en
-  video: "https://www.youtube.com/embed/vfPkPGPHYkI"
-
-
-
--
-  id: 018
-  title: "Probing the exotic structures using one-nucleon transfer reactions – Be isotopes as examples"
-  description: "Understanding nuclear structures and the nuclear force which drives the underlying changes in the orbital spacing are topics of high priority in current nuclear physics research. There are many experimental approaches to study the nuclear structure and the very compelling ones among them are one-nucleon transfer reactions. I will present how we realize the one-neutron transfer reactions experimentally and how we determine the structure information from the experimental observables. In the light nuclei, Be isotopes provide a great testing ground for various nuclear models, owing to their small number of valence nucleons and rapidly changing exotic structures. With one-nucleon transfer reactions, the p-wave normal configurations in low-lying states of 11Be and s-wave intruder configurations in the 0+ states of 12Be will be discussed. Furthermore, preliminary results of low-lying resonances in 12Be having dominant cross-shell neutron configurations will also be presented along with theoretical calculations, which shed lights on the three-body structure of 12Be and the effect of coupling to the continuum.  "
-  subtype: presentation
-  speakers: [20]
-  language: en
-  video: "https://www.youtube.com/embed/2H7PKx-jxzo"
-  presentation: "https://reactionseminar.github.io/files/chenjie_reaction_seminarv2.pdf"
-
-  
-
-
-
--
-  id: 019
-  title: "Low-energy 11Li + p and 11Li + d scattering in a multicluster model"
-  description: "The 11Li + p and 11Li + d reactions are investigated in the Continuum Discretized Coupled Channel
-(CDCC) method with a three-body description (9Li + n + n) of 11Li. I first discuss the properties
-of 11Li, and focus on E1 transition probabilities to the continuum. The existence of a 1- resonance
-at low excitation energies is confirmed, but the associated E1 transition from the ground state does
-not have an isoscalar character, as suggested in a recent experiment. In a second step, I study the
-11Li + p elastic cross section at Elab = 66 MeV in the CDCC framework. I obtain a fair agreement
-with experiment, and show that breakup effects are maximal at large angles. 
-
-<br>From CDCC equivalent 11Li + p and 11Li + n potentials, I explore
-the 11Li + d cross section within a standard three-body 11Li + (p + n) model. At small angles, the
-experimental cross section is close to the Rutherford scattering cross section, which is not supported
-by the CDCC. A five-body (9Li+n+n)+(p+n) calculation is then performed. Including breakup
-states in 11Li and in the deuteron represents a numerical challenge for theory, owing to the large
-number of channels. Although a full convergence could not be reached, the CDCC model tends to
-overestimate the data at small angles. I suggest that measurements of the 9Li + p elastic scattering
-would be helpful to determine more accurate optical potentials. The current disagreement between
-experiment and theory on 11Li + d scattering also deserves new experiments at other energies.
-"
-  subtype: presentation
-  speakers: [21]
-  language: en
-  presentation: "https://reactionseminar.github.io/files/li11d_zoom.pdf"
-  video: "https://www.youtube.com/embed/o4pCOsq9AfI"
-
-
-
-
-
--
-  id: 020
-  title: "TBD"
-  description: "TBD"
-  subtype: presentation
-  speakers: [22]
-  language: en
-#  presentation: "https://reactionseminar.github.io/files/ReactionSeminars20_Mazzocco.pdf"
-#  video: "https://www.youtube.com/embed/x_xTgkbIN2E"
-
-
-
--
-  id: 021
-  title: "Surrogate reactions: Doorways to cross sections for unstable isotopes"
-  description: "Obtaining reliable data for nuclear reactions on unstable isotopes remains an extremely important task and a formidable challenge. Cross sections for neutron-induced reactions are particularly elusive, as both projectile and target are unstable. Various indirect methods have been proposed to address this problem. The 'surrogate reaction method' [1] uses inelastic scattering or transfer ('surrogate') reactions to produce the compound nucleus of interest and measure its subsequent decay. When combined with a proper theoretical description of the reaction mechanisms that produce the compound nucleus, it is possible to extract the desired cross section from this indirect decay data. A key challenge for nuclear theory is to obtain a better understanding of the doorway states that link the direct (surrogate) reaction with the compound nucleus of interest [2,3].
-
-<br>I will illustrate the procedure for obtaining neutron capture cross sections and present results for both known (benchmark) and unknown reactions [4]. The method makes no use of auxiliary constraining quantities, such as neutron resonance data, or average radiative widths, which are not available for short-lived isotopes; thus it can be applied to isotopes away from stability. Opportunities for determining cross sections for reactions other than neutron capture will be considered.
-
-<br>[1] Escher et al, Rev. Mod. Phys. 84, 353 (2012).
-<br>[2] Escher and Dietrich, PRC 74, 054601 (2006).
-<br>[3] Forssen et al, PRC 75, 055807 (2007); Escher and Dietrich, PRC 81, 024612 (2010); Scielzo et al, PRC 81, 034608 (2010); Chiba and O. Iwamoto, PRC 81, 044604 (2010); Boutoux et al, PLB 712, 319 (2012); Ducasse et al, PRC 94, 024614 (2016).
-<br>[4] Escher et al, PRL 121, 052501 (2018), Ratkiewicz et al, PRL 122, 052502 (2019).
-
-<br>* This work is performed under the auspices of the U.S. Department of Energy by
-Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. Support
-from the Laboratory Directed Research and Development Program at LLNL, Projects No.
-16-ERD-022 and 19-ERD-017, is acknowledged."
-  subtype: presentation
-  speakers: [23]
-  language: en
-#  presentation: "https://reactionseminar.github.io/files/ReactionSeminars20_Mazzocco.pdf"
-  video: "https://www.youtube.com/embed/wkfAZougA6Q"
-
-
-
-
--
-  id: 022
-  title: "Ab initio  leading-order effective interactions for elastic scattering of nucleons from light nuclei"
-  description: "The calculation and derivation of microscopic optical potentials for obtaining scattering observables for elastic scattering from spin-zero nuclei has a long tradition. So-called microscopic `full-folding' models based on a nuclear density matrix and a fully-off-shell two-nucleon t-matrix have been developed mainly for closed shell nuclei heavier than Oxygen-16 in the 1990s. With the advent of it ab initio structure calculations e.g. in the No-Core-Shell Model (NCSM) for light nuclei, nonlocal as well as translationally invariant one-body densities can be constructed and employed in calculations of effective interactions in nucleon-nucleus scattering.
-
-<br>Based on the spectator expansion of the multiple scattering series we employ a chiral next-to-next-to-leading order (NNLO) nucleon-nucleon interaction on the same footing in the structure as well as in the reaction calculation to obtain an in leading-order consistent effective potential for nucleon-nucleus elastic scattering, which includes the spin of the struck target nucleon.
-
-<br>This talk will highlight essential ingredients to deriving this leading-order ab initio effective potential.  Elastic scattering observables for Helium and Carbon isotopes in the energy regime between about 100 and 200 MeV laboratory projectile energy will be discussed."
-  subtype: presentation
-  speakers: [24]
-  language: en
-  presentation: "https://reactionseminar.github.io/files/Seminar-abinitio-2020.pdf"
-  video: "https://www.youtube.com/embed/d6YHpa-X6PA"
-
-
--
-  id: 023
-  title: "Construction of microscopic optical potentials"
-  description: "I will present the theory and results regarding the construction of optical potentials from ab initio methods. In particular, I will present the the elastic scattering of neutrons off oxygen and calcium isotopes calculated using self-consistent Green’s function theory [1]. This method is benchmarked against the no-core shell model with continuum calculations, showing that virtual excitations of the target are crucial to predict proper fragmentation and absorption at higher energies. 
-
-<br>[1] A. Idini, C. Barbieri, and P. Navrátil, 'Ab Initio Optical Potentials and Nucleon Scattering on Medium Mass Nuclei', Phys. Rev. Lett. 123, 092501"
-  subtype: presentation
-  speakers: [25]
-  language: en
-  video: "https://www.youtube.com/embed/fHbUIPC08hE"
-  presentation: "https://reactionseminar.github.io/files/2020-Webinar-Idini.pdf"
-
-
--
-  id: 024
-  title: "Probing single-particle properties of nuclei with (p,pN) reactions"
-  description: "Proton-induced nucleon knockout (p,pN) reactions, sometimes referred to as quasifree scattering, have been used effectively to study the single-particle properties of many nuclei. These reactions have been measured in both forward and inverse kinematics. In this talk, I will present the results from several distorted-wave impulse approximation (DWIA) analyses of (p,pN) reactions. The first analysis focuses on the quenching of single-particle strength and its proton-neutron asymmetry dependence. This quenching effect is studied by analyzing the (p,2p) and (p,pn) reactions measured at GSI. The second part of my talk demonstrates the capability of (p,pn) reactions as a probe for the neutron molecular orbital in 9Be.  "
-  subtype: presentation
-  speakers: [26]
-  language: en
-  presentation: "https://reactionseminar.github.io/files/toanphuc.pdf"
-  video: "https://www.youtube.com/embed/wCQvAA6XQdg"
-
-
--
-  id: 025
-  title: "Asymmetry Dependence of Spectroscopic Factors with Transfer Reactions"
-  description: 'A discrepancy exists in the asymmetry dependence of spectroscopic factors extracted with different reaction techniques. In this work, we present extracted spectroscopic factors from the 46Ar(p,d) and 34Ar(p,d) transfer reactions in inverse kinematics. We used a "knockout-like" beam energy of 70 MeV/u (higher than what is typically used for transfer reactions) in order to test the consistency of the transfer-reaction technique. The results are consistent with previous measurements of these reactions at a lower beam energy [Lee et al., PRL 104 122701 (2010)], indicating that the transfer reaction is a reliable probe for nuclear structure across a wide energy range. Experimental and theoretical evidence makes a compelling case for weak asymmetry dependence, as opposed to the strong dependence observed with single-nucleon knockout reactions on beryllium targets. Further reaction theory development is needed to resolve this disagreement.'
-  subtype: presentation
-  speakers: [27]
-  language: en
-  presentation: "https://reactionseminar.github.io/files/Juan_MSUReactionSeminar2020.pdf"
-  video: "https://www.youtube.com/embed/3QG6TK4r9s4"
-
-
--
-  id: 026
-  title: "Inclusive breakup of 209Bi(6Li, αX) and related topics"
-  description: "In this talk, I will discuss the inclusive breakup reaction of 209Bi(6Li, alpha X). For that, the Ichimura-Austern-Vincent model proposed in the 1980s [1] is applied and compared with the experimental data [2].
-<br>In addition, I will also discuss the suppression of complete fusion of 6Li with respect to the expectation for tightly bound nuclei at energies above the Coulomb barrier. Although it is widely accepted that the phenomenon is related to the weak binding of these nuclei, the origin of this suppression is not fully understood. Here, we present a novel approach that provides the complete fusion for weakly bound nuclei and relates its suppression to the competition between the different mechanisms contributing to the reaction cross section. The method is applied to the 6Li+209Bi reactions, where we find that the suppression of complete fusion is mostly caused by the flux associated with nonelastic breakup modes, such as the partial capture of the projectile (incomplete fusion), whereas the elastic breakup mode is found to play a minor role [3].
-<br>On the other hand, the incomplete fusion has been commonly assumed to be a two-step process, whose first step is the dissociation of the weakly bound nucleus, followed by the capture of one of the fragments, To assess this interpretation, we applied the three-body model of inclusive breakup model proposed in the 1980s by Austern et al. [4], that accounts for both the direct, one-step, partial fusion and the two-step mechanism proceeding via the projectile continuum states. Contrary to the widely assumed picture, we find that, at least for the investigated cases, the partial fusion is largely dominated by the direct capture from the projectile ground state [5].
-<br>[1] M. Ichimura, N. Austern, and C. M. Vincent, Phys. Rev. C 32, 431 (1985).
-<br>[2] Jin Lei and A. M. Moro, Phys. Rev. C 92, 044616 (2015).
-<br>[3] Jin Lei and A. M. Moro, Phys. Rev. Lett. 122, 042503 (2019).
-<br>[4] N. Austern, Y. Iseri, M. Kamimura, M. Kawai, G. Rawitscher, and M. Yahiro, Phys. Rep. 154, 125 (1987).
-<br>[5] Jin Lei and A. M. Moro, Phys. Rev. Lett. 123, 232501 (2019)."
+  title: "XXX"
+  description: "XXXX"
   subtype: presentation
   speakers: [17]
   language: en
-  presentation: "https://reactionseminar.github.io/files/reactionseminar_Jin.pdf"
-  video: "https://www.youtube.com/embed/fMjJhu9Quzc"
-
-
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
 
 -
-  id: 027
-  title: "Reaction dynamics studies for the interaction of the Radioactive Ion Beams 7Be and 8B with a 208Pb target at Coulomb barrier energies"
-  description: "he reaction dynamics induced by light weakly-bound Radioactive Ion Beams (RIBs) at Coulomb barrier energies has attracted the interest of the Nuclear Physics community for the last three decades. Compared to standard well-bound nuclei along the valley of stability, breakup related effects largely enhance the reaction probability for these RIBs especially at sub-barrier energies. The investigation now concentrate in understanding what processes are mainly responsible for the reaction cross section enhancement. Studies performed with n-halo nuclei, such as 6He and 8He,  indicated transfer channels as the most relevant reaction mechanisms at sub-barrier energies, while results for the interaction of the p-halo 8B with medium-mass targets, such as 58Ni, showed an enhancement of the sub-barrier fusion cross section. 
-<br>With the aim of shedding some light on this topic, we investigated for the first time the elastic scattering process for the reaction 8B+208Pb at Coulomb barrier energies. The experiment was performed with the CRIB facility in Japan. The study was integrated by the first measurement of the elastic scattering differential cross section for the system 7Be+208Pb at three energies around the Coulomb barrier, being 7Be the core nucleus of the weakly-bound p-halo nucleus 8B (Sp = 0.1375 MeV). This second experiment was performed in Italy with the facility EXOTIC. The collected data were analyzed within the framework of the optical model in order to extract the reaction cross sections. The comparison with the results obtained for reactions induced by other light weakly-bound nuclei indicates an enhancement by a factor of 2 for the 8B reaction cross section. Preliminary theoretical investigations suggest that this enhancement should be mainly due to the breakup process 8B→7Be+p."
+  id: 018
+  title: "XXX"
+  description: "XXXX"
   subtype: presentation
-  speakers: [28]
+  speakers: [18]
   language: en
-  presentation: "https://reactionseminar.github.io/files/ReactionSeminars20_Mazzocco.pdf"
-  video: "https://www.youtube.com/embed/x_xTgkbIN2E"
-
-
-
+  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"

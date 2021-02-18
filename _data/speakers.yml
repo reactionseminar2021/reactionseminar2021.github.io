@@ -1,287 +1,168 @@
-- 
+-
   id: 1
   name: "Antonio"
   surname: "Moro"
   company: "Universidad de Sevilla"
   title: "Associate Professor"
-  bio: '<br>Antonio Moro is Associate Professor at the Department of Atomic, Molecular and Nuclear Physics of the University of Seville (Spain). He works in theoretical nuclear physics, with emphasis in the description of the structure and reactions of weakly-bound and exotic nuclei. 
+  bio: '<br>Antonio Moro is Associate Professor at the Department of Atomic, Molecular and Nuclear Physics of the University of Seville (Spain). He works in theoretical nuclear physics, with emphasis in the description of the structure and reactions of weakly-bound and exotic nuclei.
 
-<br>He obtained his PhD at the University of Seville (2001). Then, he moved to the Technical University of Lisbon where he worked as a postdoctoral fellow. In 2004, he returned to the University of Seville with a research contract, and in 2010 he became associate professor at this University. 
+<br>He obtained his PhD at the University of Seville (2001). Then, he moved to the Technical University of Lisbon where he worked as a postdoctoral fellow. In 2004, he returned to the University of Seville with a research contract, and in 2010 he became associate professor at this University.
 
 <br>Much of his research work has been performed in close collaboration with experimental groups, participating actively in the interpretation of nuclear reaction data measured at several radioactive beam facilities, such as ISOLDE (CERN), GANIL (France), RIBRAS (Brazil), Notre Dame (USA) and RIBF-RIKEN (Japan). At present, A.M. Moro is member of the INTC committee (ISOLDE/n_TOF) and the B-PAC of the RCNP facility at Osaka University.'
   thumbnailUrl: moro.jpg
 
-- 
+-
   id: 2
-  name: "Mario"
-  surname: "Gómez Ramos"
-  company: "TU Darmstadt"
-  title: "Fellows of the Alexander von Humboldt Foundation"
-  bio: "I am a postdoctoral fellow at the Institut fur Kernphysik, at TU Darmstadt. I obtained my PhD in 2018 at the Departamento de Fisica Atomica, Molecular y Nuclear at the University of Seville. My interest field is direct nuclear reaction theory, with a focus in nucleon-removal reactions on nuclei near the driplines at low and intermediate energies."
-  thumbnailUrl: Mario_Gomez.jpg
-#  rockstar: true
-#  ribbon: 
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-#    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
-  id: 3
-  name: "Pierre"
-  surname: "Capel"
-  company: "Johannes Gutenberg-Universität Mainz "
-  title: "Professor"
-  bio: "I am currently working in the theory group of the Institute for Nuclear Physics of the Johannes-Gutenberg University Mainz (Germany). I work in nuclear-reaction theory on the development of models of reactions involving halo nuclei and the analysis of measurements with the goal of improving our understanding of the structure of these exotic systems.
-<br>  After engineering studies in Brussels and Paris, I have obtained my PhD from the Université libre de Bruxelles (ULB) in 2004. I have held a few post-doctoral positions in Canada (TRIUMF theory group) and in the US (NSCL theory group at MSU) before obtaining a permanent position in Brussels. I have moved to Germany in 2018."
-  thumbnailUrl: pierrecapel.jpg
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-
-
-
-- 
-  id: 4
-  name: "Kaitlin"
-  surname: "Cook"
-  company: "Michigan State University"
-  title: "Assistant Professor"
-  bio: 'Kaitlin Cook is an Assistant Professor at Michigan State University and the Facility for Rare Isotope Beams. Her current research focuses on the near-barrier reaction dynamics of light weakly bound nuclei.  She completed her PhD at the Australian National University in 2017. Kaitlin has been a Postdoctoral Fellow at the Australian National University, a JSPS International Postdoctoral Fellow at the Tokyo Institute of Technology and a visiting fellow at the Australian National University.'
-  thumbnailUrl: Kaitlin.jpg
-  
-- 
-  id: 5
   name: "Jesús"
-  surname: "CASAL"
-  company: "Università degli Studi di Padova"
-  title: "Assistant Professor (RTDa)"
-  bio: 'Jesús Casal is an Assistant Professor (RTDa) at the Department of Physics and Astronomy of the University of Padova. He completed his PhD at the University of Seville in 2016. After his dissertation, he held a contract at the same institution for a few months, followed by a two-year postdoctoral fellowship at the ECT* in Trento. His work is focused on the theoretical description of the structure and reactions dynamics of light nuclei, using few-body models with particular emphasis on continuum effects and related phenomena. He has worked on low- and intermediate-energy reactions induced by three-body nuclei (such as two-neutron halo systems), radiative capture reactions of interest in nuclear astrophysics, and processes populating unbound nuclear systems. His contributions to nuclear-reaction theory range from elastic and inelastic scattering to breakup, knockout and transfer reactions. Recently, he has devoted efforts to open a new line of research regarding the identification and characterization of few-body resonances, most notably two-nucleon emitters, and he currently participates in several international collaborations. He is the PI of the project "Limits of Nuclear Stability: Physics beyond the driplines" (SID funds Univ. Padova, 2019)'
-  thumbnailUrl: Jesus.jpg
-  
-  
-- 
-  id: 6
-  name: "Angela"
-  surname: "Bonaccorso"
-  company: "INFN-Pisa"
-#  title: "Research Associate (RTDa)"
-  bio: 'I obtained my MSc from the University of Catania and D.Phil from the University of Oxford. I then got an INFN permanent research position in Catania  and after a few years moved  to Pisa. I spent a sabbatical year at the IPN Orsay and one at the INT Seattle. My work has been mainly concentrated on nuclear reaction theory,  in particular direct reactions such as transfer and breakup and microscopic models of the optical potential. I have been the chair of the EURISOL User Group from 2007 to 2016. Together with other colleagues I have organized several conferences (DREB2012), workshops at the ECT* Trento and schools (Graduate School, Frontiers in Nuclear and Hadronic Physics, GGI,Florence,  Summer School, Re-writing Nuclear Physics textbooks, Pisa). For several years I have given a course in Nuclear Reaction Theory at the University of Pisa.
-http://osiris.df.unipi.it/~angela/'
-  thumbnailUrl: Angela.jpg
-  
-  
-
-  
-- 
-  id: 8
-  name: "JUAN PABLO"
-  surname: "FERNANDEZ GARCIA"
-  company: "Universidad de Sevilla"
-  title: "Profesor Ayudante Doctor Interino"
-  bio: "I'm an assistant professor at the University of Seville. I obtained my PhD at the University of Seville in 2012, after that I did a 3-year postdoc in the LNS-INFN (Catania, Italy). My current research focus on the study of nuclear reactions dynamics involving weakly bound and exotic projectiles at energies around the Coulomb barrier."
-  thumbnailUrl: Juan.jpg
- 
- 
-- 
-  id: 9
-  name: "Joaquín"
-  surname: "José Gómez Camacho"
-  company: "Universidad de Sevilla"
-  title: "Professor"
-  bio: 'Joaquin Gomez Camacho is professor of atomic, molecular and nuclear physics in the University of Seville, and researcher at the Centro Nacional de Aceleradores, CNA (U. Sevilla, J. Andalucia, CSIC). His research includes theoretical nuclear physics, with an enphasis on reaction theory, experimental nuclear physics, specifically in scattering experiments of halo nuclei, and applied nuclear physics, specifically in cross disciplinary applications of small accelerators. He was director of CNA between
-2008 and 2018.'
-  thumbnailUrl: joaquin.jpg
-
-- 
-  id: 10
-  name: "Andrew"
-  surname: "Ratkiewicz"
-  company: "Lawrence Livermore National Laboratory"
-  title: "Staff Scientist"
-  bio: "I did my PhD work at the NSCL studying nuclear structure. Subsequently I worked as a postdoc at ORNL, supported by Rutgers University. While there I designed and led the fabrication and commissioning of the GODDESS particle-gamma spectrometer, which (I humbly believe, but mean no offense in saying) is the world's most powerful such detector. I also worked on the development of the Surrogate Reactions Method, leading an experiment that demonstrated the utility of the (d,p) reaction as an (n,gamma) surrogate. Then I went to LLNL, where I am now a member of staff. At LLNL I work on Surrogates, neutron-induced reaction measurements, and probing the strength of the interaction between nuclei and plasmas."
-  thumbnailUrl: andrew_ratkiewicz.jpg 
-  
-
-- 
-  id: 11
-  name: "Anna"
-  surname: "Corsi"
-  company: "CEA"
-  title: "Researcher"
-  bio: "PhD from Milano University in 2010, now researcher at CEA Saclay focussed on the study of exotic nuclei via direct reactions."
-  thumbnailUrl: anna.jpg 
-
-
-- 
-  id: 12
-  name: "Surjit"
-  surname: "Mukherjee"
-  company: "The M.S. University of Baroda, Vadodara, India"
-  title: "Professor of Physics"
-  bio: "I am a Professor of Physics. I did my M.Sc. and Ph.D. in Nuclear Physics from Banaras Hindu University, Varanasi, India. I did my Post Doctoral work at the iThemba LABS, South Africa. I have visited Brazil, Russia, South Africa, Italy, Czech Republic, Slovakia, China for my research collaboration. I have more than 125 journal publication. My research interest is Nuclear reactions with weakly bound nucleus and RIB. Reactor Physics, Nuclear Data and Nuclear Astrophysics"
-  thumbnailUrl: Surjit.jpg 
-
-
-- 
-  id: 13
-  name: "Hao"
-  surname: "Tran"
-  company: "Hue University"
-  title: " Faculty member"
-  bio: "In 2010, Hao Tran got his PhD in Nuclear Physics at University of Bordeaux (France). Later, he works at Texas A&M University-Commerce (US) as a Postdoc. Now, Dr. Hao is the Faculty member of Faculty of Physics, University of Education, Hue University, Vietnam. Hao does research in Nuclear Physics , Nuclear Astrophysics, and Atomic Physics. Hao and collaborators are trying to develop new generation of microscopic optical potential which is a vital tool to study the exotic nuclei. More information at: https://sites.google.com/a/hueuni.edu.vn/t-v-nhan-hao/"
-  thumbnailUrl: hao.jpg 
-
-
-- 
-  id: 14
-  name: "Amy"
-  surname: "Lovell"
-  company: "Los Alamos National Laboratory"
-  title: " Staff Scientist"
-  bio: "I obtained my PhD at the NSCL in reaction theory where I mainly worked on uncertainty quantification for few-body reactions, in addition to the three-body decay of 16Be and the energy-dependence of non-local optical potentials.  Afterwards, I became a post-doc in the the nuclear theory group (T-2), joint with the Center for Non-Linear Studies, at Los Alamos National Lab, performing correlated fission studies and investigating probabilistic machine learning techniques.  I was recently converted to a staff scientist in the nuclear theory group, continuing my post-doc work and becoming involved with ENDF evaluations."
-  thumbnailUrl: Lovell.png
-
-
-- 
-  id: 15
-  name: "Manuel"
-  surname: "Catacora-Rios"
-  company: "Michigan State University"
-  title: "Research Assistant"
-  bio: "I received my B.S. in Physics from Michigan State University this past year and I have been working for the past 8 months in the Few-Body Reactions Group at the Facility for Rare Isotope Beams. I work in Uncertainty Quantification under Prof. Filomena Nunes. I am originally from Peru, but I have spend 10 of my 23 years in the United States. "
-  thumbnailUrl: Manuel.png
-  
-  
-- 
-  id: 16
-  name: "Natalia"
-  surname: "Timofeyuk"
-  company: "University of Surrey"
-  title: " "
-  bio: "I work at the University of Surrey. Previous places of work are Université Libre de Bruxelles and Institute of Nuclear Physics of the Academy of Science of Uzbekistan."
-  thumbnailUrl: Natalia.jpg 
-  
-- 
-  id: 17
-  name: "Jin"
-  surname: "Lei"
-  company: "INFN Sezione di Pisa"
-  title: "Postdoc"
-  bio: 'I am a postdoc researcher from INFN Sezione di Pisa. I obtained my Ph.D from Universidad de Sevilla, after that I did my first postdoc in Ohio University. My interest field is nuclear reactions with few body model with both semi-classical and quantum mechanical methods.   '
-  thumbnailUrl: Jin.jpg
-  
-  
-- 
-  id: 18
-  name: "Kyle"
-  surname: "Brown"
-  company: "Michigan State University"
-  title: "Assistant Professor "
-  bio: 'Kyle Brown is an Assistant Professor of Chemistry at Michigan State University and the Facility for Rare Isotope beams. He completed his PhD in 2016 at Washington University in St. Louis on the study of two-proton decays from ground states and isobaric analog states, for which he was awarded the dissertation award from the Division of Nuclear Physics of the American Physical Society. He was a P. Gregers Hansen Postdoctoral Fellow at the National Superconducting Cyclotron Laboratory until 2019. His research now focuses on constraining the Nuclear Equation of State through heavy-ion collisions and structure observables. '
-  thumbnailUrl: KBrown_Headshot.jpg
-  
-  
-- 
-  id: 19
-  name: "Zaihong"
-  surname: "Yang"
-  company: "Recearch Center for Nuclear Physics, Osaka University"
-  title: "Postdoc "
-  bio: 'Zaihong Yang is now a postdoctoral researcher at the Research Center for Nuclear Physics, Osaka University. He obtained his PhD at Peking University in 2014. Then, he worked at RIKEN Nishina Center for three years as a postdoctoral researcher. His research interest is in the correlation and clustering in nuclear systems. His recent work mainly focuses on multi-neutron correlation in extremely neutron-rich systems and alpha-clustering in heavy nuclei.'
-  thumbnailUrl: zaihong.jpg
-
-
-- 
-  id: 20
-  name: "Jie"
-  surname: "Chen"
-  company: "NSCL"
-  title: "Postdoc "
-  bio: 'Jie Chen is now a postdoctoral researcher at Michigan State University and the Facility for Rare Isotope Beams. She got her Ph.D. at Peking University in 2016 and has been a postdoctoral researcher in Argonne National Laboratory in the following three years. Her research interest focuses on the study of the single-particle structures of exotic or weakly bound nuclei using transfer reactions. '
-  thumbnailUrl: JieChen.jpg
-  
-  
--
-  id: 21
-  name: "Pierre"
-  surname: "Descouvemont"
-  company: "Université Libre de Bruxelles"
-  title: "FNRS Research Director"
-  bio: 'I am working in the nuclear physics department at the Université Libre de Bruxelles (Brussels, Belgium). I am essentially working on nuclear reactions at low energies, and on the spectroscopy of light nuclei'
-  thumbnailUrl: pierredes.jpg  
- 
- 
--
-  id: 22
-  name: "Jesús"
-  surname: "Lubián Ríos"
+  surname: "Lubián"
   company: "Universidade Federal Fluminense"
-  title: "Professor"
-  bio: ''
-  thumbnailUrl: null.jpg   
-  
-  
+  title: "Coordenado do Curso de Pós Graduação"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
+
 -
-  id: 23
-  name: "Jutta"
-  surname: "Escher"
-  company: "Lawrence Livermore National Laboratory"
-  title: "Staff Scientist"
-  bio: "Jutta Escher got her Ph.D. in theoretical nuclear physics from Louisiana State University, where she developed group-theoretical descriptions of nuclear structure.  After postdoc positions at the Hebrew University in Jerusalem (Israel) and at TRIUMF in Vancouver (Canada), she took a staff position at Lawrence Livermore National Laboratory in California. Her current focus is on developing indirect methods for determining cross sections for reactions involving unstable nuclei, as these play a crucial role for understanding stellar evolution and the origin of the elements. Here, her goal is to achieve microscopic descriptions of the reaction mechanisms involved and to enable indirect measurements at both stable-beam and radioactive beam facilities, such as the Facility for Rare Isotope Beams (FRIB). Jutta remains interested in applying group-theoretical ideas to nuclear structure and reaction problems. She initiated the international workshop series 'Compound-Nuclear Reactions and Related Topics' (CNR*) and has (co)organized several other scientific meetings. Currently, she serves on the Executive Board of the FRIB Theory Alliance.  In 2019, Jutta was elected Fellow of the American Physical Society."
-  thumbnailUrl: jutta.jpg 
+  id: 3
+  name: "Miguel"
+  surname: "Marques"
+  company: "XXX"
+  title: "XXXX"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
 
-- 
-  id: 24
-  name: "Charlotte"
-  surname: "Elster"
-  company: "Ohio University"
-  title: "Professor"
-  bio: "Charlotte Elster is a theoretical nuclear physicist. Her early research on the strong force between nucleons (i.e. protons and neutrons) has set the stage for her current research on nuclei made up of few protons and neutrons.
-<br>Although much is now known about the strong forces between pairs of nucleons, there is much to learn about their dynamical roles in nuclei with many nucleons. Nuclei with only few neutrons and protons, the few-body systems, are small enough to be accurately modeled yet complex enough to present great challenges. To unveil the mechanisms through which few-body systems are built, Elster employs high-performance computing methods using powerful supercomputers consisting of hundreds of processors to carry out complex modeling tasks. She has always been interested in using supercomputers to the limits, and in her research has developed new numerical tools to accurately model few-body systems. In addition she uses her experience in describing few-body systems to model nuclear reactions.
-<br>In 2001, Elster was elected a Fellow of the American Physical Society (Few-Body Systems and Multi-Particle Dynamics) 'for her significant contributions to the understanding of the nucleon-nucleon interaction and its applications in few-body systems and nuclear reactions.'
-<br>Elster's way to stay fit for her job is figure skating in which she combines physics and geometry to mutual advantage. She regularly practices her jumps and spins at Ohio University's Bird Arena during early morning hours."
-  thumbnailUrl: elster_charlotte.jpg
-  
-- 
-  id: 25
+-
+  id: 4
+  name: "Filomena"
+  surname: "Nunes"
+  company: "Michigan State University"
+  title: "FRIB Theory Alliance Managing Director"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
+
+
+-
+  id: 5
+  name: "Sandrine"
+  surname: "Courtin"
+  company: "XXX"
+  title: "XXXX"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
+
+-
+  id: 6
+  name: "Alessia"
+  surname: "Di Pietro"
+  company: "XXX"
+  title: "XXXX"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
+
+-
+  id: 7
+  name: "Cédric"
+  surname: "Simenel"
+  company: "The Australian National University"
+  title: "XXXX"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
+
+-
+  id: 8
+  name: "Chloë"
+  surname: "Hebborn"
+  company: "Michigan State University"
+  title: "Visiting Assistant Professor"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
+
+-
+  id: 9
+  name: "Peiwei"
+  surname: "Wen"
+  company: "China Institute of Atomic Energy"
+  title: "XXXX"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
+
+-
+  id: 10
   name: "Andrea"
-  surname: "Idini"
-  company: "Lund University"
-  title: "Associate Senior Lecturer"
-  bio: 'Andrea Idini did his PhD in Milan University, and postdocs in Darmstadt, Jyväskylä and Surrey. After a brief period in Scape technologies, he joined the faculty at the division of Mathematical Physics in Lund University.'
-  thumbnailUrl: Idini.jpg
+  surname: "Vitturi"
+  company: "XXX"
+  title: "XXXX"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
+
+-
+  id: 11
+  name: "Wei"
+  surname: "Liu"
+  company: "Peking University"
+  title: "XXXX"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
 
 
-- 
-  id: 26
-  name: "Nguyen Tri"
-  surname: "Toan Phuc"
-  company: "University of Science, VNU-HCM"
-  title: "PhD student"
-  bio: 'I am a PhD student at the University of Science, VNU-HCM under the supervision of Prof. Dao Tien Khoa. My main research topic is the theory of transfer and knockout reactions. I have also spent sometimes in RCNP, Osaka University to collaborate with Prof. Ogata on the topic of proton-induced knockout reaction.'
-  thumbnailUrl: toanphuc.png  
-  
+-
+  id: 12
+  name: "Huiming"
+  surname: "Jia"
+  company: "China Institute of Atomic Energy"
+  title: "XXXX"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
 
-- 
-  id: 27
-  name: "Juan José"
-  surname: "Manfredi Jr."
-  company: "University of California, Berkeley "
-  title: "Postdoctoral Scholar"
-  bio: 'Juan Manfredi is an NSSC Postdoctoral Fellow at the University of California, Berkeley in the Department of Nuclear Engineering. The central focus of his work is developing state-of-the-art neutron detection technologies in support of nuclear nonproliferation. In particular, his recent projects include organic scintillator characterization, design of a kinematic neutron scatter camera, and the development of a novel iterative imaging algorithm. Manfredi previously earned a PhD in nuclear physics under Prof. Betty Tsang at the National Superconducting Cyclotron Laboratory at Michigan State University. For his dissertation, he measured the asymmetry dependence of spectroscopic factors using transfer reactions on unstable isotopes. As an undergraduate at Washington University, Manfredi worked with Prof. Lee Sobotka on various nuclear structure studies, such as constraining the decay modes of the Hoyle state of 12C.'
-  thumbnailUrl: juan-bio.jpg
-  
-  
-- 
-  id: 28
-  name: "Marco"
-  surname: "Mazzocco"
-  company: "University of Padova "
-  title: "Associate Professor"
-  bio: 'Graduation in Physics (summa cum laude) at the University of Padova on March 26th, 2001. Ph.D. in Physics from the University of Padova (February 14th, 2005). From April 2005 till May 2006 post-doctoral fellowship at the Gesellschaft fuer Schwerionenforschung (GSI), Darmstadt (Germany).  From June 2006 till November 2010 post-doctoral fellowship at the Department of Physics of the University of Padova. From December 2010 till November 2014 Principal Investigator of the project “Production of a 6He radioactive ion beam and its use for reaction dynamics studies on medium-mass targets”. From March 2011 till September 2017 Assistant Professor at the Department of Physics and Astronomy of the University of Padova. Since October 2017 Associate Professor at the Department of Physics and Astronomy of the University of Padova. Since September 2013 Scientific Coordinator of the Tandem-ALPI-PIAVE accelerator complex at the INFN-LNL. Since September 2017 member of the Program Advisory Committee of the Heavy Ion Laboratory of the University of Warsaw (Poland). Main Research Topic: Experimental Nuclear Physics and Astrophysics, production of Radioactive Ion Beams (RIBs) and their separation and selection via the In-Flight technique. Investigation of the main reaction mechanisms (elastic and inelastic scattering, transfer, breakup, fusion) induced from light weakly-bound radioactive nuclei on heavy and intermediate-mass targets at energies around the Coulomb barrier. Study of nuclear reactions of astrophysical interest induced by radioactive nuclei.'
-  thumbnailUrl: Macro.jpeg
-  
+-
+  id: 13
+  name: "Nicolas"
+  surname: "Michel"
+  company: "XXX"
+  title: "XXXX"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
+
+-
+  id: 14
+  name: "Kostas"
+  surname: "Kravvaris"
+  company: "Lawrence Livermore National Laboratory"
+  title: "Postdoc"
+  bio: 'Kostas graduated from the National Kapodestrian University of Athens in 2011
+  with a specialization in Condensed Matter Physics. Earned a Master's Degree in 2014 and a PhD in 2018,
+  both from Florida State University, studying α-clustering in light nuclei.
+  Currently he works at Lawrence Livermore National Laboratory, in the Nuclear Data and Theory Group,
+  working on first-principles reaction theory.'
+  thumbnailUrl: Kostas.png
+
+-
+  id: 15
+  name: "Shin"
+  surname: "Watanabe"
+  company: "XXX"
+  title: "XXXX"
+  bio: 'XXX'
+  thumbnailUrl: null.jpg
+
+-
+  id: 16
+  name: "Jagjit"
+  surname: "Singh"
+  company: "Osaka University"
+  title: "Research Associate"
+  bio: 'Jagjit Singh is working as a Research Associate at Research centre
+for Nuclear Physics (RCNP), Osaka University, Japan in the group of
+Prof. K. Ogata and a visiting researcher at Akal University, Punjab, India.
+He has completed his PhD from the University of Padova, Italy under
+supervision of Prof. L. Fortunato and Prof. A. Vitturi. He has worked as a
+Research Associate at Indian Institute of Technology(IIT), Roorkee, India in
+group of Prof. R. Chatterjee for a few months, followed by two and half year
+postdoctoral fellowship at Nuclear Reaction data center (JCPRG) and
+Theoretical Nuclear Physics Laboratory (TNPL) at Hokkaido University Sapporo,
+Japan. During his stay at Hokkaido he worked in collaboration with Dr. W. Horiuchi.
+His major research interests are the theoretical investigation of the structure and
+reaction studies of the nuclei lying away from the valley of stability using few-body
+approaches. Recently he is involved in the three-body structure investigation for various
+Borromean nuclei and three/four-body breakup reaction studies using continuum-discretized
+coupled-channels method (CDCC). His research interests also include nuclear reaction data
+compilation and evaluation activity.'
+  thumbnailUrl: jag.jpg

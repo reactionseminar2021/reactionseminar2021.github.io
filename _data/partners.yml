@@ -1,7 +1,5 @@
-- 
+-
   group: "General sponsor"
-  elements: 
-    - {name: "INFN-pisa", description: "INFN-pisa", link: "https://www.pi.infn.it", imageUrl: "2_Pisa_LOGO_NOME_ESTESO.jpeg"}
+  elements:
+    # - {name: "INFN-pisa", description: "INFN-pisa", link: "https://www.pi.infn.it", imageUrl: "2_Pisa_LOGO_NOME_ESTESO.jpeg"}
     - {name: "Dip. Fisica e Astronomia 'G.Galilei'", description: "Dip. Fisica e Astronomia 'G.Galilei'", link: "https://www.dfa.unipd.it", imageUrl: "logo-dfa-unipd.png"}
-
-
