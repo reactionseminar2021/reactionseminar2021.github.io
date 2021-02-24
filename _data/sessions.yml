@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "XXX"
+  title: "The IAV for inclusive breakup: recent applications and perspectives"
   description: "XXXX"
   subtype: presentation
   speakers: [1]
@@ -31,8 +31,8 @@
 
 -
     id: 004
-    title: "XXX"
-    description: "XXXX"
+    title: "Statistical Analysis of Reactions to Extract an Optical Potential"
+    description: "The optical potential is a crucial ingredient in modeling nuclear reactions. However, it is still the main contributor to theoretical uncertainties in calculations of reaction cross sections. It is essential that these uncertainties be reduced, especially when considering reactions involving isotopes far from stability. We combine the Bayesian Markov Chain Monte Carlo framework with the optical model to determine posterior distributions of the optical potential parameters. We then make use of different statistical tools to explore what can be learned from reaction and total cross sections, elastic scattering angular distributions and polarization data. We finally discuss the opportunities that Bayesian experimental design offers for the future."
     subtype: presentation
     speakers: [4]
     language: en
