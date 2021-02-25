@@ -1,7 +1,9 @@
 -
   id: 001
   title: "The IAV for inclusive breakup: recent applications and perspectives"
-  description: "XXXX"
+  description: "In recent years, the study of inclusive breakup reactions has received renewed interest thanks to its many potential applications in the interpretation of nuclear reaction experiments with both stable and unstable beams. In this presentation, I will briefly review the inclusive breakup model proposed in the 1980s by Ichimura, Ichimura, Austern, and Vincent (IAV) and discuss its connection with other inclusive breakup models, such as the Hussein-McVoy model and its eikonal version, which has been standardly employed in the analysis of nucleon knockout reactions.
+
+I will also outline some possible extensions and applications of the IAV model, including the evaluation of incomplete fusion cross sections and the indirect extraction of cross sections through the so-called surrogate method."
   subtype: presentation
   speakers: [1]
   language: en
