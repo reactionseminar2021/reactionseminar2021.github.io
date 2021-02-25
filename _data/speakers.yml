@@ -23,11 +23,11 @@
 -
   id: 3
   name: "Miguel"
-  surname: "Marques"
-  company: "XXX"
-  title: "XXXX"
-  bio: 'XXX'
-  thumbnailUrl: null.jpg
+  surname: "Marqués"
+  company: "LPC-Caen"
+  title: ""
+  bio: 'Miguel Marqués made his PhD between GANIL-Caen and IFIC-Valencia on “Bose-Einstein correlations between hard photons produced in heavy-ion collisions”. In 1994 he moved to LPC-Caen to work in a completely different field, the structure of exotic nuclei, and joined the CNRS one year later. Most of his research is focused on the study of correlations and research of new phenomena in very neutron-rich light nuclei. In doing so he has explored the application of original techniques, such as neutron interferometry, proton radiative capture, beta-delayed neutron emission, observation of multi-neutron resonances, or the detection of neutron clusters. Since 2012 most of his experimental activity takes place at RIKEN, and he is presently involved in the extension of the NEBULA multineutron array.'
+  thumbnailUrl: Miguel_2020.jpg
 
 -
   id: 4

@@ -21,8 +21,8 @@
 
 -
   id: 003
-  title: "XXX"
-  description: "XXXX"
+  title: "From one to many: a neutral history"
+  description: 'Already in the early 1960s, when physicists started to move away from the valley of stability, some ambitious ones tried to put several neutrons together and create "neutral nuclei" in their laboratories. They didn’t succeed, but the task was a very difficult (while fascinating) one, both from the construction and the detection points of view. Fascination overcame difficulty and other physicists kept trying to find these objects, that would defy nuclear theory as we know it, all through the XX century. Finally, in this XXI century two signals of a possible tetraneutron state close to threshold were obtained, first at GANIL and then at RIKEN, that were weak but have not been contested yet. They have triggered a lot of new theoretical calculations, as well as new generation experiments that try to reveal something that has eluded firm evidence for sixty years already. I will review some of the most exotic experiments, highlight their merits and drawbacks, and show why the present ones think they will succeed where so many others have failed. The game might be over soon, whatever the outcome.'
   subtype: presentation
   speakers: [3]
   language: en
