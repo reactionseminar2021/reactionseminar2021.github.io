@@ -20,7 +20,7 @@
   id: 1
   name: "Mario"
   surname: "Gómez Ramos"
-  title: "Postdoc"
+  title: "Research Fellow"
   thumbnailUrl: Mario_Gomez.jpg
   team: true
 #  ribbon:
@@ -43,10 +43,10 @@
   id: 3
   name: "Jesús"
   surname: "Casal"
-  title: "Assistant Professor (RTDa)"
+  title: "Research Fellow"
   thumbnailUrl: Jesus.jpg
   team: true
   social:
 #    - {name: "github", link: "https://github.com/XXX"}
      - {name: "site", link: "https://sites.google.com/view/jcasal"}
-     - {name: "email", link: "mailto:casal@pd.infn.it"}
+     - {name: "email", link: "mailto:jcasal@us.es"}

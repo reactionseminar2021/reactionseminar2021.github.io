@@ -2,6 +2,6 @@
   group: "Organizers"
   elements:
     - {name: "Jin Lei", description: "Research Fellow, Tongji University", email: "jinl@tongji.edu.cn"} #, imageUrl: "gdg-lviv.svg"}
-    - {name: "Mario Gómez Ramos", description: "Fellows of the Alexander von Humboldt Foundation, TU Darmstadt", email: "mgomez@ikp.tu-darmstadt.de" }#, link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "Kaitlin Cook", description: "Assistant Professor, Michigan State University", email: "cookk@frib.msu.edu" }#, link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "Jesús Casal", description: "Assistant Professor (RTDa), Università degli Studi di Padova", email: "casal@pd.infn.it" }#, link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Mario Gómez Ramos", description: "Research Fellow, Universidad de Sevilla", email: "mgomez@ikp.tu-darmstadt.de" } #, link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Kaitlin Cook", description: "Assistant Professor, Michigan State University", email: "cookk@frib.msu.edu" } #, link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Jesús Casal", description: "Research Fellow, Universidad de Sevilla", email: "jcasal@us.es" } #, link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
