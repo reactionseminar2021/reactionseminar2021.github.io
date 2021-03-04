@@ -69,10 +69,10 @@
   id: 6
   name: "Alessia"
   surname: "Di Pietro"
-  company: "XXX"
-  title: "XXXX"
-  bio: 'XXX'
-  thumbnailUrl: null.jpg
+  company: "Laboratori Nazionali del Sud (LNS) in Catania"
+  title: "Professor"
+  bio: 'Alessia Di Pietro got her PhD degree at the University of Catania in 1996. After the degree she spent about one year as post-doc at the radioactive beam facility CRC in Louvain la Neuve (Belgium) and then she was research-fellow at the University of Edinburgh (three years from 1997 to 1999). In January 2000 she became permanent research staff of INFN at the Laboratori Nazionali del Sud (LNS) in Catania, where, from 2009 she is a senior research scientist. In 2013 she got the national habilitation as full professor for the Italian University system. Her main research field is the study of effects of nuclear structure, in particular of the halo-structure, on the various reaction processes at energies around the Coulomb barrier. Within this research field she has proposed experiments in various laboratories: CRC-Louvain La Neuve, INFN-LNS, Isolde and TRIUMF. She was a member of the INTC committee (Isolde/n-TOF) and at present she is associate editor of the European Physical Journal A.'
+  thumbnailUrl: alessia.jpg
 
 -
   id: 7

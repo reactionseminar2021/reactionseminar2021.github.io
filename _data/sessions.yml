@@ -54,8 +54,9 @@ I will also outline some possible extensions and applications of the IAV model, 
 
 -
   id: 006
-  title: "XXX"
-  description: "XXXX"
+  title: "Reaction dynamics with neutron and proton halo beams."
+  description: "The region of the nuclear chart corresponding to light radioactive nuclei has, over the years, yielded many surprising results, among others the discovery of the halo structure in neutron and proton dripline nuclei.
+<br>We have performed a systematic investigation of the reaction studies around the Coulomb barrier of collisions induced by neutron halo beams and, recently, of the proton halo 8B beam. In this talk an overview of the most relevant results that have been obtained so far will be given highlighting the differences in the reaction process between neutron and proton halos."
   subtype: presentation
   speakers: [6]
   language: en
