@@ -16,9 +16,9 @@
   name: "Jesús"
   surname: "Lubián"
   company: "Universidade Federal Fluminense"
-  title: "Coordenado do Curso de Pós Graduação"
-  bio: 'XXX'
-  thumbnailUrl: null.jpg
+  title: "Associate Professor"
+  bio: 'Jesús Lubián is a theoretical nuclear physicist born in Havana Cuba who graduated in Physics at Moscow State University M.V. Lomonosov (1988) and Ph.D. in Physics at Centro de Estudos Aplicados al Desarrollo Nuclear, Havana Cuba (1995). He has experience in Nuclear Physics working in the Theory of Nuclear Reactions between stable and unstable nuclei at low and intermediate energies. He is now an associate professor at the Instituto de Física of Universidade Federal Fluminense ion Rio de Janeiro, Brazil'
+  thumbnailUrl: Lubian.jpg
 
 -
   id: 3

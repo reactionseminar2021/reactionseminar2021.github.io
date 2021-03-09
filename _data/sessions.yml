@@ -12,8 +12,8 @@ I will also outline some possible extensions and applications of the IAV model, 
 
 -
   id: 002
-  title: "XXX"
-  description: "XXX"
+  title: "Complete and incomplete fusion of weakly-bound projectiles on heavy targets"
+  description: "We present a detailed discussion of a recently proposed method to evaluate complete and incomplete fusion cross sections for weakly bound systems. The method is applied to collisions of 7Li projectiles on different heavy targets, and the results are compared with the available data. The overall agreement between experiment and theory is fairly good. Some preliminary results on 6Li projectiles are also presented."
   subtype: presentation
   speakers: [2]
   language: en
