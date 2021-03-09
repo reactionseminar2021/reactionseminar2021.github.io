@@ -172,8 +172,16 @@ I will also outline some possible extensions and applications of the IAV model, 
 
 -
   id: 017
-  title: "XXX"
-  description: "XXXX"
+  title: "Alpha clustering and the cluster knockout reaction"
+  description: "As schematically described in the Ikeda diagram [1], the alpha clustering is expected in light nuclei, near the alpha threshold energies in particular. Both theoretical and experimental efforts have been made over decades, and such alpha clustering phenomena are well understood in the light mass region. In contrast, the alpha clustering in the ground state is not well understood so far. An alpha-16O component in the 20Ne ground state is one of the candidates of the alpha clustering in the ground state, owing to the double magic nature of the 16O core.
+  Carey et al. [2] performed the 20Ne(p,p alpha)16O reaction experiment and reported that the alpha spectroscopic factor of the alpha-16O component extracted from the reaction analysis is inconsistent with a theoretical prediction by about a factor of two.
+  In Ref.[3] we have re-analyzed the knockout cross section data with a modern theoretical framework, a combination of the antisymmetrized molecular dynamics and the distorted wave impulse approximation. We confirmed that the inconsistency between the theory and the experimental result has resolved thanks to the quantitative improvement of the present framework. In this seminar, I will introduce recent achievements of reaction theory for the alpha knockout reaction, mainly on the knockout reaction from 20Ne and 16O, and challenges toward the heavier region, 48Ti [4] and Sn isotopes [5].
+
+<br>  [1] K. Ikeda, N. Takigawa, and H. Horiuchi, Prog. of Theor. Phys. Suppl. E68 (1968) 464.
+<br>  [2] T. A. Carey et al., Phys. Rev. C. 29, 1273 (1984).
+<br>  [3] K. Yoshida, Y. Chiba, M. Kimura, Y. Taniguchi, Y. Kanada-En'yo, and K. Ogata, Phys. Rev. C 100, 044601 (2019).
+<br>  [4] Y. Taniguchi, K. Yoshida, Y. Chiba, Y. Kanada-En'yo, M. Kimura and K. Ogata, arXiv:2101:04820.
+<br>  [5] J. Tanaka et al., Science 371, 260 (2021)."
   subtype: presentation
   speakers: [17]
   language: en
