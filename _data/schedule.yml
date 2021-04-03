@@ -58,7 +58,7 @@
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [017]
+    	sessionIds: [005]
     }
 -
   date: "2021-04-22"
@@ -195,29 +195,4 @@
     	startTime: "9:00",
     	endTime: "10:00",
     	sessionIds: [016]
-    }
-
--
-  date: "2021-07-08"
-  dateReadable: "July 1"
-  tracks:
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [005]
-    }
-
-
--
-  date: "2021-07-15"
-  dateReadable: "July 1"
-  tracks:
-    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "10:00",
-    	sessionIds: [018]
     }
