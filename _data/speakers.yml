@@ -233,4 +233,13 @@ compilation and evaluation activity.'
   company: "x"
   title: "x"
   bio: 'x'
-  thumbnailUrl: kazuki.jpg
+  thumbnailUrl: null.jpg
+
+-
+  id: 19
+  name: "Natalia"
+  surname: "Timofeyuk"
+  company: "x"
+  title: "x"
+  bio: 'x'
+  thumbnailUrl: null.jpg
