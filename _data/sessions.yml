@@ -201,8 +201,8 @@ I will also outline some possible extensions and applications of the IAV model, 
 
 -
   id: 019
-  title: "XXX"
-  description: "XXXX"
+  title: "Three-nucleon force in (d,p) reactions"
+  description: "The three-nucleon (3N) force is important for understanding the structure and dynamics of atomic nuclei and nuclear matter from first principles and it is routinely used in many ab-initio structure calculations. It is also included in calculations describing reactions involving nuclei that can be modelled as few-body systems. First calculations of elastic scattering with ab-initio potentials have also been recently reporter. However, 3N force is not considered in analyses of experimental data involving direct reactions with complex nuclei. One particular class of such reactions, deuteron stripping (d,p) and pick-up (p,d), is an important experimental tool for testing the shell-model picture of atomic nuclei, which is often used for indirect determination of nucleon capture reaction rates at astrophysical energies. In this talk I will describe recent advances in clarifying the role of the 3N force in (d,p) reactions."
   subtype: presentation
   speakers: [19]
   language: en

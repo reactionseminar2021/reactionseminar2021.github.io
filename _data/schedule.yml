@@ -199,6 +199,18 @@
 
 
 -
+  date: "2021-07-08"
+  dateReadable: "July 8"
+  tracks:
+    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [017]
+    }
+
+-
   date: "2021-07-15"
   dateReadable: "July 15"
   tracks:
