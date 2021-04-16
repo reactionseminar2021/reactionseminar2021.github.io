@@ -207,7 +207,7 @@
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [017]
+    	sessionIds: [005]
     }
 
 -
@@ -220,4 +220,16 @@
     	startTime: "9:00",
     	endTime: "10:00",
     	sessionIds: [018]
+    }
+
+-
+  date: "2021-07-22"
+  dateReadable: "July 22"
+  tracks:
+    - {title: "Theory (Eastern Standard Time)", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+    	sessionIds: [017]
     }
