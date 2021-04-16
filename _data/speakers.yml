@@ -79,9 +79,9 @@
   name: "Cédric"
   surname: "Simenel"
   company: "The Australian National University"
-  title: "XXXX"
-  bio: 'XXX'
-  thumbnailUrl: null.jpg
+  title: "Professor"
+  bio: 'Cedric Simenel is professor at the Australian National University (ANU) where he is mostly working on microscopic approaches to nuclear structure and dynamics, with a strong connection to experimental nuclear reaction studies. He did his PhD in GANIL (France) and graduated in 2003. After 10 years at the CEA-Saclay, he joined the ANU in 2013, where he is now Head of the Department of Theoretical Physics, and Deputy Director of the Centre of Excellence for Dark Matter Particle Physics funded by the Australian Research Council. '
+  thumbnailUrl: Cedric.jpg
 
 -
   id: 8

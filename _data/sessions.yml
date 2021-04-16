@@ -65,8 +65,15 @@ I will also outline some possible extensions and applications of the IAV model, 
 
 -
   id: 007
-  title: "XXX"
-  description: "XXXX"
+  title: "Shell effects in fission and quasifission"
+  description: "Fission of atomic nuclei is often affected by quantum effects leading to asymmetric mass splits.
+Quantum shells stabilising fission fragments with various shapes have been invoked
+ as a factor determining the distribution of nucleons between the fragments at scission.
+While spherical shell effects in 132Sn are responsible for the symmetric fission mode in neutron rich fermiums, octupole shell effects have been invoked to explain the fact that the centroid of the heavy fragment charge distribution is found around  Z=54 in actinide asymmetric fission.
+Shell effects have also been recently identified, both theoretically and experimentally, in the quasifission process.
+Quasifission occurs in fully damped heavy-ion collisions following a significant mass transfer from the heavy to the light fragment, without formation of a compound nucleus.
+In this talk, we use time-dependent mean-field approaches to investigate and compare the shell effects affecting the fragments formation in both fission and quasifission.
+In particular, we discuss the possibility to use quasifission to study fission modes in superheavy nuclei, which would benefit from the fact that quasifission cross-sections are much larger than for fusion-fission. "
   subtype: presentation
   speakers: [7]
   language: en
