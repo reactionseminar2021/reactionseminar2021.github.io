@@ -159,8 +159,9 @@ In particular, we discuss the possibility to use quasifission to study fission m
 
 -
   id: 015
-  title: "XXX"
-  description: "XXXX"
+  title: "Theoretical study on multichannel breakup reactions"
+  description: "In the continuum-discretized coupled-channel method (CDCC), a breakup cross section (BUX) is obtained as an admixture of several components of different channels in multichannel scattering. For example, for 6Li scattering in four-body CDCC (n+p+α+T, where T is a target), the resultant three-body BUX (6Li+T→d+α+T) and the four-body BUX (6Li+T→n+p+α+T) are mixed because of the discretization of the projectile wave functions. In principle, it is possible to disentangle the cross section into three-body and four-body channel components if the exact three-body wave functions are prepared under the proper boundary condition. However, performing that calculation is hard and impractical.
+In this talk, we propose a practical method for decomposing discretized BUXs into components of each channel. This approximation is referred to as the “probability separation (P separation).” As an example, we consider 11Be scattering by using the three-body model with core excitation (10Be+n+T) because this scattering provides an analogy to the 6Li scattering regarding the mixture of different channels [core-ground channel (11Be+T→10Be(g.s.)+n+T) and core-excited channel (11Be+T→10Be*+n+T)]. The structural part is constructed by the particle-rotor model and the reaction part is described by the distorted-wave Born approximation. We show the validity of the P separation by comparing it with the exact solution. Finally, we apply the P separation to 6Li four-body scattering and discuss the reaction dynamics beyond simple three-body dynamics."
   subtype: presentation
   speakers: [15]
   language: en
