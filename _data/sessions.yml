@@ -92,8 +92,8 @@ In particular, we discuss the possibility to use quasifission to study fission m
 
 -
   id: 009
-  title: "XXX"
-  description: "XXXX"
+  title: "Potential roots of deep sub-barrier heavy-ion fusion hindrance phenomenon within the sudden approximation approach"
+  description: "We analyse the origin of the unexpected deep sub-barrier heavy-ion fusion hindrance in 64Ni+100Mo, 64Ni+64Ni and  28Si+64$Ni reactions, and so on. Our analysis is based on the improved coupled-channels  description, implemented  by means of the finite element method. With the aid of the Woods-Saxon potential, we found that the account on the non-diagonal matrix elements of the coupling matrix, traditionally neglected in the conventional  coupled-channels approaches in setting the left boundary conditions inside the potential pocket, and its minimal value are crucially important for the interpretation of experimental data. This finding provides the efficient way of the microscopic description of the deep sub-barrier hindrance of heavy-ion reactions, which is confirmed by  a good agreement with the general trend of the experimental data for the S-factor."
   subtype: presentation
   speakers: [9]
   language: en
