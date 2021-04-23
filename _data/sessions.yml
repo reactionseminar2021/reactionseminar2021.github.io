@@ -82,8 +82,10 @@ In particular, we discuss the possibility to use quasifission to study fission m
 
 -
   id: 008
-  title: "XXX"
-  description: "XXXX"
+  title: "Analysis of one-neutron knockout observables: sensitivity to the projectile's nuclear structure and dynamical effects"
+  description: "One-neutron knockout reactions have been extensively used to probe nuclei away from stability. Surprisingly, the ratio between experimental data and theoretical predictions of one-nucleon knockout is strongly dependent on the binding energy of the knocked-out nucleon, feature that is not observed in the analysis of other reactions. Knockout observables are usually computed at the standard eikonal model, which relies on the adiabatic approximation and therefore does not include the collision dynamics. In the first part of this talk, I will present a sensitivity analysis of one-neutron knockout observables to the nuclear-structure of the projectile, with the aim of determining the physics probed through these reactions. We have started this study on the loosely-bound halo nuclei 11Be and 15C before proceeding towards more strongly-bound nuclear systems. The second part of the talk will focus on dynamical effects in one-neutron knockout reactions. To do so, I will present the application of the Eikonal Reaction Theory (ERT) to the Dynamical Eikonal Approximation and discuss its accuracy for diffractive-breakup observables. The ERT, developed by the Kyushu-Osaka group, aims to include dynamical effects to the core-target interaction, while keeping the simplicity of the Hussein and McVoy formalism.
+
+<br>This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics, under the FRIB Theory Alliance award DE-SC0013617."
   subtype: presentation
   speakers: [8]
   language: en
