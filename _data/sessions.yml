@@ -116,8 +116,8 @@ In particular, we discuss the possibility to use quasifission to study fission m
 
 -
   id: 011
-  title: "XXX"
-  description: "XXXX"
+  title: "Study of Single-Nucleon Transfer Reaction of 13B"
+  description: "For light stable nuclei with small N/Z asymmetry, the existence of the magic numbers can be well explained by the traditional shell model. However, with increasing N/Z ratios, unusual rearrangements of single-particle orbitals emerge in the exotic nuclei far from the beta-stability line.  The so-called s-wave intruder and d-wave intruder components have been quantitatively determined for the ground state of N=8 neutron-rich isotopes, except for 13B. In our work, the relative spectroscopic factors associated with the 13Bg.s. configuration were determined through the measurements of a single-neutron transfer reaction to the known 12B states. The s- and d-wave intruder strengths in 13Bg.s. are deduced quantitatively, and discussed systematically with N = 8 neutron-rich isotones. In the analysis of single-proton transfer reaction, three peaks were observed clearly in the excitation energy spectrum of 12Be, which are populated in the (d, 3He) reaction. Angular distributions of these three peaks show the Δ𝐿 = 1 character, which implies that the valence proton in 13B mainly occupies 𝑝 orbital. Besides, a resonant state around 4.8 MeV is observed, and the spin-parity of this resonant is tentatively assigned."
   subtype: presentation
   speakers: [11]
   language: en
