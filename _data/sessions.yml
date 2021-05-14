@@ -126,8 +126,14 @@ In particular, we discuss the possibility to use quasifission to study fission m
 
 -
   id: 012
-  title: "XXX"
-  description: "XXXX"
+  title: "Theoretical studies of nuclear reactions in the nuclear engineering field"
+  description: "The application of nuclear reactions is not limited to energy supply, but extends to a wide range of fields including medicine.
+For the design study of facilities such as nuclear reactor, accelerator and so on, accurate and comprehensive database of nuclear reaction cross sections are indispensable.
+However, it is difficult to develop comprehensive nuclear database based on experimental data alone.
+Hence, reliable theoretical model calculations play key roles in completing the necessary cross-section data by interpolating or extrapolating experimental ones.
+This talk will outline the calculation methods employed in the development of the series of Japanese Evaluated Nuclear Data Library (JENDL).
+Through the talk, the importance of theoretical studies on nuclear reactions in the engineering fields will also be mentioned.
+"
   subtype: presentation
   speakers: [12]
   language: en

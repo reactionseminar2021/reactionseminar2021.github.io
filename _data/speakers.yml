@@ -127,12 +127,15 @@
 
 -
   id: 12
-  name: "Huiming"
-  surname: "Jia"
-  company: "China Institute of Atomic Energy"
-  title: "XXXX"
-  bio: 'XXX'
-  thumbnailUrl: null.jpg
+  name: "Shinsuke"
+  surname: "Nakayama"
+  company: "Nuclear Data Center, Japan Atomic Energy Agency (JAEA)"
+  title: "research engineer staff"
+  bio: 'Shinsuke Nakayama is now a research engineer staff at Nuclear Data Center, Japan Atomic Energy Agency (JAEA).
+He obtained his PhD at Kyushu University in 2015. Since then, he has been working in his current affiliation.
+He works on the development of Japanese Evaluated Nuclear Data Library (JENDL), which is the database of nuclear reaction cross sections made in Japan.
+His work extends also to the development of calculation methods employed in the nuclear data evaluation of JENDL.'
+  thumbnailUrl: nakayama.jpg
 
 -
   id: 13
