@@ -178,8 +178,19 @@ In this talk, we propose a practical method for decomposing discretized BUXs int
 
 -
   id: 016
-  title: "XXX"
-  description: "XXXX"
+  title: "Four-body description of 9C breakup"
+  description: "The 9C nucleus and its related capture reaction, 8B(p,γ)9C, have been
+intensively studied with an astrophysical interest. Due to the weakly-bound
+nature of 9C, its structure is likely to be described as the three-body (7Be+p+p),
+which has, however, not been described so far. It's continuum structure is also
+important to describe reaction processes of 9C, with which the reaction rate of the
+8B(p,γ)9C process has been extracted indirectly. In this talk, I will discuss our recent
+and first three-body results on the ground and low-lying continuum states of
+9C [arXiv:2103.09511 [nucl-th]]. The three-body ground and low-lying continuum
+states of 9C are built within the framework of Gaussian-expansion method (GEM)
+combined with the complex-scaling method (CSM). Role of the low-lying resonances
+will be discussed in the breakup of 9C by means of four-body (7Be+p+p+target)
+version of the continuum-discretized coupled-channels (CDCC) method."
   subtype: presentation
   speakers: [16]
   language: en
