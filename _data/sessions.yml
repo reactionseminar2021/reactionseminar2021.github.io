@@ -44,8 +44,13 @@ I will also outline some possible extensions and applications of the IAV model, 
 
 -
   id: 005
-  title: "XXX"
-  description: "XXXX"
+  title: "What do we know about the C burning in massive stars?
+Recent direct measurements by the STELLA collaboration"
+  description: "A new direct measurement of the 12C+12C fusion reaction has been performed down to the energy regime relevant to carbon burning in massive stars by the STELLA collaboration [1].
+Direct techniques to measure fusion cross sections for astrophysics will be presented as well as specificities of the STELLA setup and the analysis techniques used for background reduction.
+Fusion cross section results will be presented which span over eight orders of magnitude, and the corresponding S factors will be discussed.
+
+<br>[1] G. Fruet, S. Courtin, M. Heine, D.G. Jenkins et al, Phys. Rev. Lett. 124, 192701 (2020)."
   subtype: presentation
   speakers: [5]
   language: en
