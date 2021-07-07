@@ -178,8 +178,8 @@ In this talk, we propose a practical method for decomposing discretized BUXs int
   subtype: presentation
   speakers: [15]
   language: en
-  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
-  # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
+  video: "https://www.youtube.com/embed/aaMsJGsf9uM"
+  presentation: "https://reactionseminar2021.github.io/files/shin.pdf"
 
 -
   id: 016
@@ -199,7 +199,7 @@ version of the continuum-discretized coupled-channels (CDCC) method."
   subtype: presentation
   speakers: [16]
   language: en
-  # video: "https://www.youtube.com/embed/gc-hyM5XaAQ"
+  video: "https://www.youtube.com/embed/sLIDfeqEr8Q"
   # presentation: "https://reactionseminar.github.io/files/reactionseminar_KJCook.pdf"
 
 -
