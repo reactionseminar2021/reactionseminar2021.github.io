@@ -233,10 +233,30 @@ compilation and evaluation activity.'
   id: 18
   name: "Takashi"
   surname: "Nakamura"
-  company: "x"
-  title: "x"
-  bio: 'x'
-  thumbnailUrl: null.jpg
+  company: "Tokyo Institute of Technology"
+  title: "Professor"
+  bio: 'Educational History
+<br>• 1984-1986, Scinence-I, University of Tokyo
+<br>• 1986-1988, Departmenf of Physics, University of Tokyo
+<br>• 1988-1990, Department of Physics, Graduate School of Science (Master Course), University of Tokyo
+<br>• 1990 Master Degree (Univ. of Tokyo)
+<br>• 1990-1993, Department of Physics, Graduate School of Science (Docter Course), Uni-
+versity of Tokyo
+<br>• 1996 Doctor of Science obtained (Univ. of Tokyo) Thesis: Coulomb Excitation of 11Be
+Supervisor: Prof.M.Ishihara
+<br>Employment
+<br>• 1993-1995, Special Postdoctoral Researcher, RIKEN
+<br>• 1995-2000, Research Associate, Department of Physics, University of Tokyo
+<br>• 1998-2000, Visiting Scientist, National Superconducting Cyclotron Laboratory, Michi-
+gan State University
+<br>• 2000-2008, Associate Professor, Department of Physics, Tokyo Institute of Technol- ogy
+<br>• 2008-Present, Professor, Department of Physics, Tokyo Institute of Technology
+<br>• FY 2013, Head of Department
+<br>• FY 2015, Head of Department
+<br>• FY 2018-2019, Member, Educational Research Council
+<br>• FY 2021, Head of Department
+'
+  thumbnailUrl: nakamura_kao.jpg
 
 -
   id: 19

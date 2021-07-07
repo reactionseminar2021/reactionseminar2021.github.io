@@ -217,8 +217,19 @@ version of the continuum-discretized coupled-channels (CDCC) method."
 
 -
   id: 018
-  title: "XXX"
-  description: "XXXX"
+  title: "Dineutron correlation of exotic nuclei along the neutron drip line"
+  description: "Dineutron is a strong spatial neutron-neutron correlation which could appear on
+the surface of nuclei, although it is still elusive in terms of experiments.
+Recently, evidence of dineutron correlations have been shown for neutron halo nuclei,
+using different techniques: 1) Coulomb breakup of 19B, 6He [1,2],
+and 2) proton quasi-free scattering of 11Li [3]. I will also show a promising method of 3) direct
+two-neutron decay of resonance states along the neutron drip line, where I show the preliminary
+result on the decay of the 1st excited state of 6He.
+I also discuss the relevance of the dineutron correlation to other quantum hierarchies, such as atomic systems.
+
+<br>[1] K.J. Cook, T.Nakamura et al., Phys. Rev. Lett. 124, 212503 (2020).
+<br>[2] Y.L. Sun, T. Nakamura et al., Phys. Lett. B814, 136072 (2021).
+<br>[3] Y. Kubota, et al., Phys. Rev. Lett. 125, 252501 (2020)."
   subtype: presentation
   speakers: [18]
   language: en
